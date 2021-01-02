@@ -1,0 +1,15 @@
+Crastinus Dies Nunquam Sciat
+============================
+
+                   | EN | ID  
+-------------------+----+-----
+  Pages            |  7 | 30  
+  Paginator pages  |  0 |  9  
+  Non-page files   |  2 | 32  
+  Static files     | 90 | 90  
+  Processed images |  0 |  0  
+  Aliases          |  2 |  6  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Total in 209 ms
