@@ -1,0 +1,15 @@
+https://status.crdinusc.eu.org
+==============================
+
+                   | EN | ID  
+-------------------+----+-----
+  Pages            |  8 | 38  
+  Paginator pages  |  0 |  7  
+  Non-page files   |  0 |  0  
+  Static files     | 85 | 85  
+  Processed images |  0 |  0  
+  Aliases          |  2 |  7  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Total in 231 ms
