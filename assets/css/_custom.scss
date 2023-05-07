@@ -6,6 +6,26 @@ footer {
   padding: .76rem 0 !important;
 }
 
+/* _page/_home.scss */
+
+.home[data-home=posts] {
+  .summary {
+    padding-top: .8rem !important;
+    margin: 1rem 0 !important;
+    [theme=dark] & {
+      border-top: 1px dashed $global-border-color-dark !important;
+    }
+    border-top: 1px dashed $global-border-color !important;
+    .featured-image-preview {
+      margin-top: -.8rem !important;
+      [theme=dark] & {
+        border-bottom: 1px dashed $global-border-color-dark !important;
+      }
+      border-bottom: 1px dashed $global-border-color !important;
+    }
+  }
+}
+
 /* _page/_single.scss */
 
 .single {
@@ -87,26 +107,6 @@ footer {
 
   .post-nav {
     padding-bottom: 1.77rem !important;
-  }
-
-  /* _page/_home.scss */
-
-  .home[data-home=posts] {
-    .summary {
-      padding-top: .8rem !important;
-      margin: 1rem 0 !important;
-      [theme=dark] & {
-        border-top: 1px dashed $global-border-color-dark !important;
-      }
-      border-top: 1px dashed $global-border-color !important;
-      .featured-image-preview {
-        margin-top: -.8rem !important;
-        [theme=dark] & {
-          border-bottom: 1px dashed $global-border-color-dark !important;
-        }
-        border-bottom: 1px dashed $global-border-color !important;
-      }
-    }
   }
 
   /* _partial/_single/_toc.scss */
