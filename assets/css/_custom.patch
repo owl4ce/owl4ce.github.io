@@ -1,0 +1,227 @@
+diff --git themes/LoveIt/assets/css/_core/_footer.scss themes/LoveIt/assets/css/_core/_footer.scss
+index 21a89e8..0fdd02e 100644
+--- themes/LoveIt/assets/css/_core/_footer.scss
++++ themes/LoveIt/assets/css/_core/_footer.scss
+@@ -1,9 +1,9 @@
+ footer {
+-  height: 2rem;
++  height: initial;
+   width: 100%;
+   text-align: center;
+   line-height: 1.25rem;
+-  padding: 1rem 0;
++  padding: .76rem 0;
+ 
+   .footer-container {
+     font-size: .875rem;
+diff --git themes/LoveIt/assets/css/_core/_media.scss themes/LoveIt/assets/css/_core/_media.scss
+index f90315d..4d5c9fe 100644
+--- themes/LoveIt/assets/css/_core/_media.scss
++++ themes/LoveIt/assets/css/_core/_media.scss
+@@ -36,6 +36,102 @@
+   }
+ }
+ 
++/* Copyright (c) 2023 Harry Kurn */
++
++@media only screen and (min-width: 681px) {
++
++  /* _core/_base.scss */
++
++  body {
++    &[theme=dark] {
++      background-image: url("/lib/images/kaendahan.pet.webp");
++    }
++    background-image: url("/lib/images/kaendahan.pad.webp");
++  }
++
++  /* _page/_index.scss */
++
++  .page {
++    margin-top: calc(var(--header-height)*1.75);
++    margin-bottom: calc(var(--header-height)*.875);
++    [data-header-desktop] & {
++      padding: 1.5rem 2rem;
++    }
++  }
++
++  /* _page/_404.scss */
++
++  #content-404 {
++    margin: auto;
++  }
++
++  /* _page/_archive.scss
++     _page/_single.scss */
++
++  .archive, .single {
++    .single-title {
++      margin: 0 0 .5rem;
++    }
++  }
++
++  /* _partial/_single/_footer.scss */
++
++  .post-nav {
++    padding-bottom: 1.77rem;
++  }
++
++  /* _page/_home.scss */
++
++  .home[data-home=posts] {
++    .summary {
++      padding-top: .8rem;
++      margin: 1rem 0;
++      [theme=dark] & {
++        border-top: 1px dashed $global-border-color-dark;
++      }
++      border-top: 1px dashed $global-border-color;
++      .featured-image-preview {
++        margin-top: -.8rem;
++        [theme=dark] & {
++          border-bottom: 1px dashed $global-border-color-dark;
++        }
++        border-bottom: 1px dashed $global-border-color;
++      }
++    }
++  }
++
++  /* _partial/_single/_toc.scss */
++
++  .toc {
++    .toc-content {
++      font-size: calc(var(--toc-content-font-size)*.6875);
++      line-height: calc(var(--global-line-height)*.6875);
++      ul {
++        a:first-child::before {
++          margin-right: .375rem;
++        }
++      }
++    }
++  }
++
++  #toc-auto {
++    width: initial;
++    right: 20px;
++  }
++
++  /* _core/_footer.scss
++     _page/_index.scss
++     _partial/_single/_toc.scss */
++
++  footer, .page, #toc-auto {
++    [theme=dark] & {
++      background-color: $global-background-color-dark;
++    }
++    background-color: $global-background-color;
++  }
++
++}
++
+ @media only screen and (max-width: 680px) {
+   #header-desktop {
+     display: none;
+diff --git themes/LoveIt/assets/css/_page/_home.scss themes/LoveIt/assets/css/_page/_home.scss
+index ae7988a..34c4389 100644
+--- themes/LoveIt/assets/css/_page/_home.scss
++++ themes/LoveIt/assets/css/_page/_home.scss
+@@ -151,7 +151,7 @@
+         font-size: 1.125rem;
+       }
+ 
+-      @include link(false, true);
++      @include link(true, true);
+ 
+       b, strong {
+         color: $global-font-secondary-color;
+diff --git themes/LoveIt/assets/css/_page/_single.scss themes/LoveIt/assets/css/_page/_single.scss
+index 20c1579..5c14226 100644
+--- themes/LoveIt/assets/css/_page/_single.scss
++++ themes/LoveIt/assets/css/_page/_single.scss
+@@ -9,8 +9,9 @@
+   }
+ 
+   .single-subtitle {
+-    margin: .5rem 0;
+-    font-size: 1.2rem;
++    margin: .9rem 0 1rem;
++    font-size: 1.1rem;
++    font-style: italic;
+     font-weight: normal;
+     line-height: 100%;
+   }
+@@ -27,11 +28,7 @@
+       color: $global-font-secondary-color-dark;
+     }
+ 
+-    @include link(false, true);
+-
+-    .author {
+-      font-size: 1.05rem;
+-    }
++    @include link(true, true);
+   }
+ 
+   .featured-image {
+@@ -102,18 +99,20 @@
+     > h5,
+     > h6 {
+       > .header-mark::before {
+-        content: "|";
+-        margin-right: .3125rem;
++        content: "";
++        padding-left: 2rem;
++        margin-left: -2rem;
++        margin-right: -.1rem;
+         color: $single-link-color;
+ 
+         [theme=dark] & {
+           color: $single-link-color-dark;
+         }
+       }
+-    }
+-
+-    > h2 > .header-mark::before {
+-      content: "#";
++      > .header-mark:hover::before {
++        content: "§";
++        margin-right: .3125rem;
++      }
+     }
+ 
+     p {
+@@ -322,6 +321,12 @@
+   @import "../_partial/_single/comment";
+ }
+ 
++.regular {
++  .single-title, .single-subtitle, .post-meta {
++    text-align: center;
++  }
++}
++
+ .typeit {
+   .highlight {
+     padding: .375rem;
+diff --git themes/LoveIt/assets/css/_variables.scss themes/LoveIt/assets/css/_variables.scss
+index 915753d..36fcdee 100644
+--- themes/LoveIt/assets/css/_variables.scss
++++ themes/LoveIt/assets/css/_variables.scss
+@@ -32,7 +32,7 @@ $global-link-color: #161209 !default;
+ $global-link-color-dark: #a9a9b3 !default;
+ 
+ // Color of the hover link
+-$global-link-hover-color: #2d96bd !default;
++$global-link-hover-color: #000 !default;
+ $global-link-hover-color-dark: #fff !default;
+ 
+ // Color of the border
+@@ -103,7 +103,7 @@ $blockquote-color-dark: #59c5ec !default;
+ 
+ // ========== Pagination ========== //
+ // Color of the link in pagination
+-$pagination-link-color: #2d96bd !default;
++$pagination-link-color: #161209 !default;
+ $pagination-link-color-dark: #a9a9b3 !default;
+ 
+ // Color of the hover link in pagination

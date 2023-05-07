@@ -1,0 +1,49 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - loveit
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: Build
+        run: |
+          (rm -fv ./assets/css/_custom.scss && patch -p0 -i ./assets/css/_custom.patch)
+          hugo --minify --noBuildLock --baseURL 'https://crdinusc.eu.org' > /tmp/hugo_cache/render.log
+          sed -e "1s|.*|$(head -n1 ./public/robots.txt | cut -c 3-)|" /tmp/hugo_cache/render.log > ./public/gohugo-codegen-perf.txt
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/loveit' }}
+        env:
+          GIT_AUTHOR_DATE: '2021-01-02T07:13:52Z'
+          GIT_COMMITTER_DATE: '2021-01-02T07:13:52Z'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true
+          cname: crdinusc.eu.org
