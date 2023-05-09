@@ -26,7 +26,7 @@ hasCJKLanguage = false
 
 # default amount of posts in each pages
 # 默认每页列表显示的文章数目
-paginate = 5
+paginate = 3
 # google analytics code [UA-XXXXXXXX-X]
 # 谷歌分析代号 [UA-XXXXXXXX-X]
 googleAnalytics = ""
@@ -51,7 +51,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "owl4ce"
+  name = "Respective Authors"
   email = ""
   link = ""
 
@@ -141,7 +141,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     copyright = true
     # whether to show the author
     # 是否显示作者
-    author = false
+    author = true
     # site creation time
     # 网站创立年份
     since = 2023
@@ -150,33 +150,33 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    #license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+    license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
   [params.section]
     # special amount of posts in each section page
     # section 页面每页显示文章数量
-    paginate = 5
+    paginate = 3
     # date format (month and day)
     # 日期格式 (月和日)
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 5
+    rss = 3
 
   # List (category or tag) page config
   # List (目录或标签) 页面配置
   [params.list]
     # special amount of posts in each list page
     # list 页面每页显示文章数量
-    paginate = 5
+    paginate = 3
     # date format (month and day)
     # 日期格式 (月和日)
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 5
+    rss = 3
 
   # App icon config
   # 应用图标配置
@@ -235,7 +235,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.home]
     # amount of RSS pages
     # RSS 文章数目
-    rss = 5
+    rss = 3
     # Home page profile
     # 主页个人信息
     [params.home.profile]
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 5
+      paginate = 3
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
@@ -810,7 +810,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.en.params.home]
-        rss = 5
+        rss = 3
         [languages.en.params.home.profile]
           enable = false
           gravatarEmail = ""
@@ -872,7 +872,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.id.params.home]
-        rss = 5
+        rss = 3
         [languages.id.params.home.profile]
           enable = false
           gravatarEmail = ""
