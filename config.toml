@@ -32,7 +32,7 @@ paginate = 5
 googleAnalytics = ""
 # copyright description used only for seo schema
 # 版权描述，仅仅用于 SEO
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -150,7 +150,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    #license= '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA 4.0</a>'
+    #license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -777,7 +777,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
@@ -839,7 +839,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     languageCode = "id"
     languageName = "Bahasa Indonesia"
     hasCJKLanguage = false
-    copyright = "Karya ini dilisensikan di bawah Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+    copyright = "Karya ini dilisensikan di bawah Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
     [languages.id.menu]
       [[languages.id.menu.main]]
         weight = 1
