@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Respective Authors"
   email = ""
-  link = ""
+  link = "/etiquette/"
 
 # Menu config
 # 菜单配置
