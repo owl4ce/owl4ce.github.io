@@ -44,6 +44,7 @@ jobs:
           GIT_COMMITTER_DATE: '2021-01-02T07:13:52Z'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_assets: '.github,**/*.asc'
           publish_dir: ./public
           force_orphan: true
           cname: crdinusc.eu.org
