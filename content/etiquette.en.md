@@ -70,7 +70,7 @@ a web-book created to archive tons of authentic literary works written by the re
 
 Since authentic-unique literary works are <u>semi-open licensed</u>, i.e. conditional reproduction of
 copies is permitted. It is prohibited to arbitrarily use (or copy) the exact same sentences without
-following the terms, as stated in the footer of the page. Permit to alternate-se7en(at)proton.me.
+following the terms, as stated in the footer of the page. Permit to alternate-se7en(at)crdinusc.eu.org.
 
 ---
 
