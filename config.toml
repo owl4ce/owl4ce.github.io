@@ -26,7 +26,7 @@ hasCJKLanguage = false
 
 # default amount of posts in each pages
 # 默认每页列表显示的文章数目
-paginate = 2
+paginate = 1
 # google analytics code [UA-XXXXXXXX-X]
 # 谷歌分析代号 [UA-XXXXXXXX-X]
 googleAnalytics = ""
@@ -157,26 +157,26 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.section]
     # special amount of posts in each section page
     # section 页面每页显示文章数量
-    paginate = 2
+    paginate = 1
     # date format (month and day)
     # 日期格式 (月和日)
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 4
+    rss = 6
 
   # List (category or tag) page config
   # List (目录或标签) 页面配置
   [params.list]
     # special amount of posts in each list page
     # list 页面每页显示文章数量
-    paginate = 2
+    paginate = 1
     # date format (month and day)
     # 日期格式 (月和日)
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 4
+    rss = 6
 
   # App icon config
   # 应用图标配置
@@ -235,7 +235,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.home]
     # amount of RSS pages
     # RSS 文章数目
-    rss = 4
+    rss = 6
     # Home page profile
     # 主页个人信息
     [params.home.profile]
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 2
+      paginate = 1
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
@@ -811,7 +811,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.en.params.home]
-        rss = 4
+        rss = 6
         [languages.en.params.home.profile]
           enable = false
           gravatarEmail = ""
@@ -874,7 +874,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.id.params.home]
-        rss = 4
+        rss = 6
         [languages.id.params.home.profile]
           enable = false
           gravatarEmail = ""
