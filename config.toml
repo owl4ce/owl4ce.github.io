@@ -796,7 +796,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/index.xml"
         title = "RSS Feed"
     [languages.en.params]
-      description = "Also make a way, if your heart is covered in darkness. — Interpreted from id_ID, its essence diminishes."
+      description = "I ask of thee, art thou mankind?"
       [languages.en.params.search]
         enable = false
         type = "lunr"
@@ -859,7 +859,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/index.xml"
         title = "Umpan RSS"
     [languages.id.params]
-      description = "Maka buatlah jalan, jikalau hatimu dirundung kegelapan."
+      description = "Aku bertanya kepada engkau, engkau manusia?"
       [languages.id.params.search]
         enable = false
         type = "lunr"
