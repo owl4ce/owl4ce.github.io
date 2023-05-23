@@ -859,7 +859,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/index.xml"
         title = "Umpan RSS"
     [languages.id.params]
-      description = "Aku bertanya kepada engkau, engkau manusia?"
+      description = "Aku bertanya kepada engkau, engkaukah manusia?"
       [languages.id.params.search]
         enable = false
         type = "lunr"
