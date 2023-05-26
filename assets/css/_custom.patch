@@ -26,10 +26,10 @@ index f90315d..6e3eb56 100644
 +
 +@media only screen and (min-width: 681px) {
 +
-+  /* _core/_base.scss */
++  /* _core/_layout.scss */
 +
-+  body {
-+    &[theme=dark] {
++  .wrapper {
++    [theme=dark] & {
 +      background-image: url("/lib/images/kaendahan.pet.webp");
 +    }
 +    background-image: url("/lib/images/kaendahan.pad.webp");
