@@ -26,7 +26,7 @@ hasCJKLanguage = false
 
 # default amount of posts in each pages
 # 默认每页列表显示的文章数目
-paginate = 1
+paginate = 2
 # google analytics code [UA-XXXXXXXX-X]
 # 谷歌分析代号 [UA-XXXXXXXX-X]
 googleAnalytics = ""
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 1
+      paginate = 2
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
