@@ -68,7 +68,7 @@ Hasrat reka rempa menyetrum
 
 Begitu mereka kata setuju  
 Ideal reka-reka jitu tertuju  
-Angka tetentu berkala tujuh;  
+Angka tertentu berkala tujuh  
 Jejak barusan tentu berjujuh.
 
 </div>
