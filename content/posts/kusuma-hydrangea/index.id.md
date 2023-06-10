@@ -81,7 +81,7 @@ Bahwa engkau ternyata biru
 <!-- 4 4 4 3 -->
 
 Apabila *cinta* itu buta  
-Dan malampaui itu *mematikan*  
+Dan melampaui itu *mematikan*  
 Tunak hati engkau berkata  
 *Kebencian* bisa *menyelamatkan*
 
