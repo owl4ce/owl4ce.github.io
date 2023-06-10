@@ -2,7 +2,7 @@
 title: "Etiquette"
 subtitle: "for sane and reasonable society."
 date: 2023-05-11T00:00:00+07:00
-lastmod: 2023-06-01T00:00:00+07:00
+lastmod: 2023-06-11T00:00:00+07:00
 draft: false
 author: ""
 authorLink: ""
@@ -62,7 +62,7 @@ a web-book created to archive tons of authentic literary works written by the re
 
 ---
 
-## <span style='color:#fa74b2'>C</span>omplete Lite<span style='color:#fa74b2'>ra</span>ry <span style='color:#fa74b2'>S</span>ubstance.
+## <span style='color:#fa74b2'>C</span>omprehensive Lite<span style='color:#fa74b2'>ra</span>ry <span style='color:#fa74b2'>S</span>ubstance.
 
 Since authentic-unique literary works are <u>semi-open licensed</u>, i.e. conditional reproduction of
 copies is permitted. It is prohibited to arbitrarily use (or copy) the exact same sentences without
