@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: [""]
 
-tags: ["", "", ""]
+tags: []
 categories: [""]
 
 featuredImage: ""
@@ -54,6 +54,24 @@ seo:
 <!--more-->
 
 ---
+
+<!--
+
+magick 90Q.jpg -strip \
+               -sampling-factor 4:2:0 \
+               -interlace Plane \
+               -quality 50 \
+               -define webp:alpha-compression=1 \
+               -define webp:alpha-filtering=1 \
+               -define webp:auto-filter=true \
+               -define webp:lossless=false \
+               -define webp:method=6 \
+               -define webp:partition-limit=0 \
+               -define webp:show-compressed=true \
+               -define webp:thread-level=1 \
+50Q.webp
+
+-->
 
 <div style="text-align:justify">
 
