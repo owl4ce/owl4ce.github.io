@@ -15,7 +15,7 @@ index 21a89e8..0fdd02e 100644
    .footer-container {
      font-size: .875rem;
 diff --git themes/LoveIt/assets/css/_core/_media.scss themes/LoveIt/assets/css/_core/_media.scss
-index f90315d..6e3eb56 100644
+index f90315d..5ce05f7 100644
 --- themes/LoveIt/assets/css/_core/_media.scss
 +++ themes/LoveIt/assets/css/_core/_media.scss
 @@ -36,6 +36,82 @@
@@ -102,10 +102,10 @@ index f90315d..6e3eb56 100644
    #header-desktop {
      display: none;
 diff --git themes/LoveIt/assets/css/_page/_home.scss themes/LoveIt/assets/css/_page/_home.scss
-index ae7988a..002d875 100644
+index ae7988a..e8db00d 100644
 --- themes/LoveIt/assets/css/_page/_home.scss
 +++ themes/LoveIt/assets/css/_page/_home.scss
-@@ -77,13 +77,15 @@
+@@ -77,23 +77,31 @@
    }
  
    .summary {
@@ -123,7 +123,8 @@ index ae7988a..002d875 100644
        border-bottom: 1px dashed $global-border-color-dark;
      }
  
-@@ -91,9 +93,14 @@
+     .featured-image-preview {
++      opacity: .9;
        width: 100%;
        padding: 30% 0 0;
        position: relative;
@@ -139,7 +140,7 @@ index ae7988a..002d875 100644
        img {
          position: absolute;
          width: 100%;
-@@ -151,7 +158,7 @@
+@@ -151,7 +159,7 @@
          font-size: 1.125rem;
        }
  

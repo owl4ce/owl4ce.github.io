@@ -17,6 +17,7 @@ footer {
     }
     border-top: 1px dashed $global-border-color !important;
     .featured-image-preview {
+      opacity: .9 !important;
       margin-top: -.8rem !important;
       [theme=dark] & {
         border-bottom: 1px dashed $global-border-color-dark !important;
