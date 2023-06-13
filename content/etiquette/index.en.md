@@ -62,7 +62,11 @@ a web-book created to archive tons of authentic literary works written by the re
 
 ---
 
-## <span style='color:#fa74b2'>C</span>omprehensive Lite<span style='color:#fa74b2'>ra</span>ry <span style='color:#fa74b2'>S</span>ubstance.
+</div>
+
+### <span style='color:#fa74b2'>C</span>omprehensive Lite<span style='color:#fa74b2'>ra</span>ry <span style='color:#fa74b2'>S</span>ubstance.
+
+<div style="text-align:justify">
 
 Since authentic-unique literary works are <u>semi-open licensed</u>, i.e. conditional reproduction of
 copies is permitted. It is prohibited to arbitrarily use (or copy) the exact same sentences without
