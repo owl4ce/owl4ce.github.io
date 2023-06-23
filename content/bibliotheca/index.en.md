@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Mystica de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-06-23T00:00:00+07:00
+lastmod: 2023-06-24T00:00:00+07:00
 draft: false
 author: ""
 authorLink: ""
@@ -57,13 +57,25 @@ seo:
 
 ## `2023-06-16`
 
+<div style="text-align:justify">
+
 - **The meaning of amour: English translation and more**  
   In this article, we will explore the meaning of amour, its English
   translation and its cultural significance in different societies.  
   https://www.ithinklanguages.com/the-meaning-of-amour/
 
+---
+
+</div>
+
 ## `2023-06-23`
+
+<div style="text-align:justify">
 
 - **Science of the Heart**  
   Exploring the Role of the Heart in Human Performance  
   https://www.heartmath.org/research/science-of-the-heart/
+
+---
+
+</div>
