@@ -111,7 +111,7 @@ other = "oleh"
 other = "pada {{ .Date }}"
 
 [includedInCategories]
-other = "Sebuah {{ .Categories }}"
+other = "Sehelai {{ .Categories }}"
 
 [wordCount]
 one = "Satu kata"
@@ -148,7 +148,7 @@ other = "Baca Lebih Lanjut"
 other = "Halaman tidak ditemukan"
 
 [pageNotFoundText]
-other = "Perasaan yang engkau cari tidak ada."
+other = "Mengapa engkau mencari kehampaan?"
 # === 404.html ===
 
 # === shortcodes/admonition.html ===
