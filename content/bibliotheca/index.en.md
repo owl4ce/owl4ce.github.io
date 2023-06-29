@@ -2,9 +2,9 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-06-27T00:00:00+07:00
+lastmod: 2023-06-29T00:00:00+07:00
 draft: false
-author: ""
+author: "Violet Hortensia"
 authorLink: ""
 description: ""
 license: ""
@@ -72,6 +72,17 @@ seo:
 
 - **Science of the Heart**  
   https://www.heartmath.org/research/science-of-the-heart/
+
+---
+
+</div>
+
+## `2023-06-29`
+
+<div style="text-align:justify">
+
+- **Archaic Verb Conjugation in English**  
+  https://langeek.co/en/grammar/course/683/archaic-verb-conjugation
 
 ---
 
