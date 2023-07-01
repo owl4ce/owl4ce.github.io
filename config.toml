@@ -781,12 +781,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
-        identifier = "gls"
-        pre = "<i class='fas fa-square-pen fa-fw'></i>"
+        identifier = "bbl"
+        pre = "<i class='fas fa-square fa-fw'></i>"
         post = ""
         name = ""
-        url = "/login/"
-        title = "Start writing!"
+        url = "/bibliotheca/"
+        title = "Bibliotheca Intuitiva de Hortensia"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "rss"
@@ -844,12 +844,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.id.menu]
       [[languages.id.menu.main]]
         weight = 1
-        identifier = "gls"
-        pre = "<i class='fas fa-square-pen fa-fw'></i>"
+        identifier = "bbl"
+        pre = "<i class='fas fa-square fa-fw'></i>"
         post = ""
         name = ""
-        url = "../login/"
-        title = "Mulai menulis!"
+        url = "../bibliotheca/"
+        title = "Bibliotheca Intuitiva de Hortensia"
       [[languages.id.menu.main]]
         weight = 2
         identifier = "rss"
