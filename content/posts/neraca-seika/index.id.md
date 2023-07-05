@@ -64,13 +64,14 @@ dalam esai mesra ini sendiri, Hortensia meradikalisasi paradigma semu kita dalam
 lestari.
 
 Lantaran kehidupan ini bagaikan permainan dan senda gurau, singgah makan dan minum, kita ini kecenderungan bodoh.
-Meskipun berpikir, lalu berpikir, dan terus berpikir, Hortensia semakin yakin bahwa benar-benar bodoh. Merasa hidup
-semata-mata mampu bergerak dengan kehendak bebas, padahal kita ini mati, kendatipun berakal budi. Lihatlah pekarangan,
-mereka tumbuh berkembang. Berceranggah menghadap ke segala arah, dari sari pati tanah hingga berbunga dan berbuah.
+Meskipun berpikir, lalu berpikir, dan terus berpikir, Hortensia makin yakin bahwa benar-benar bodoh. Merasa hidup
+semata-mata mampu bergerak dengan kehendak bebas, padahal kita ini mati, kendatipun berakal budi. Lihatlah di
+pekarangan, mereka tumbuh berkembang. Berceranggah menghadap ke segala arah, dari sari pati tanah hingga berbunga
+dan berbuah.
 
-Lantas bagaimana dengan sang pewaris fauna? Bukankah kita ini cenderung terlena? Mudah hanyut akan prestise dan
-estetika dunia yang semakin kemari hampa akan makna. Cinta tanpa kasih, giliran cinta kasih, bukan kasih sayang.
-Hidup dalam bayang-bayang, meraba-raba dalam kelamnya malam. Tidak melulu acara asmara, juga bukan perkara pura-pura.
+Lantas, bagaimana dengan sang pewaris fauna? Bukankah kita ini cenderung terlena? Mudah hanyut akan prestise dunia
+dan estetika yang makin kemari hampa akan makna. Cinta tanpa kasih, giliran cinta kasih, bukan kasih sayang. Hidup
+dalam bayang-bayang, meraba-raba dalam kelamnya malam. Tidak melulu acara asmara, juga bukan perkara pura-pura.
 Namun, berbekal logika bahasa semata, kita ini kecenderungan buta. Maka selaku insan yang halus, sudah seyogianya
 harus menyelaraskan cinta-kasih-sayang (harfiahnya *amour*) dan rasio guna meniti pada cahaya-Nya yang lurus.
 
