@@ -60,7 +60,7 @@ seo:
 <!-- 3 4 3 4 -->
 
 Terlepas tutup arloji  
-Telah hempas kabut pagi  
+Telah empas kabut pagi  
 Hujan angin menghampiri  
 Hawa dingin kian menyelimuti
 
