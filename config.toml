@@ -51,7 +51,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "Respective Authors"
+  name = "Respective Author(s)"
   email = ""
   link = "/etiquette/"
 
