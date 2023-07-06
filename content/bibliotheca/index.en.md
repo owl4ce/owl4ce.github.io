@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-06-29T00:00:00+07:00
+lastmod: 2023-07-06T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -83,6 +83,17 @@ seo:
 
 - **Archaic Verb Conjugation in English**  
   https://langeek.co/en/grammar/course/683/archaic-verb-conjugation
+
+---
+
+</div>
+
+## `2023-07-06`
+
+<div style="text-align:justify">
+
+- **Why Nature Vs. Nurture is a False Dichotomy**  
+  https://developmentalpsychiatry.com/2021/08/03/why-nature-vs-nurture-is-a-false-dichotomy/
 
 ---
 
