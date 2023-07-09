@@ -98,3 +98,16 @@ seo:
 ---
 
 </div>
+
+## `2023-07-10`
+
+<div style="text-align:justify">
+
+- **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian**  
+  https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html
+  - https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp
+  - https://pbs.twimg.com/media/E2pV6B9VIAUclxS?format=webp
+
+---
+
+</div>
