@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-06T00:00:00+07:00
+lastmod: 2023-07-10T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -57,57 +57,37 @@ seo:
 
 ## `2023-06-16`
 
-<div style="text-align:justify">
-
-- **The meaning of amour: English translation and more**  
-  https://www.ithinklanguages.com/the-meaning-of-amour/
+A. **The meaning of amour: English translation and more**  
+   https://www.ithinklanguages.com/the-meaning-of-amour/
 
 ---
-
-</div>
 
 ## `2023-06-23`
 
-<div style="text-align:justify">
-
-- **Science of the Heart**  
-  https://www.heartmath.org/research/science-of-the-heart/
+A. **Science of the Heart**  
+   https://www.heartmath.org/research/science-of-the-heart/
 
 ---
-
-</div>
 
 ## `2023-06-29`
 
-<div style="text-align:justify">
-
-- **Archaic Verb Conjugation in English**  
-  https://langeek.co/en/grammar/course/683/archaic-verb-conjugation
+A. **Archaic Verb Conjugation in English**  
+   https://langeek.co/en/grammar/course/683/archaic-verb-conjugation
 
 ---
-
-</div>
 
 ## `2023-07-06`
 
-<div style="text-align:justify">
-
-- **Why Nature Vs. Nurture is a False Dichotomy**  
-  https://developmentalpsychiatry.com/2021/08/03/why-nature-vs-nurture-is-a-false-dichotomy/
+A. **Why Nature Vs. Nurture is a False Dichotomy**  
+   https://developmentalpsychiatry.com/2021/08/03/why-nature-vs-nurture-is-a-false-dichotomy/
 
 ---
-
-</div>
 
 ## `2023-07-10`
 
-<div style="text-align:justify">
-
-- **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian**  
-  https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html
-  - https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp
-  - https://pbs.twimg.com/media/E2pV6B9VIAUclxS?format=webp
+A. **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian**  
+ ~~https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html~~
+   https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp
+   https://pbs.twimg.com/media/E2pV6B9VIAUclxS?format=webp
 
 ---
-
-</div>
