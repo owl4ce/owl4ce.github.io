@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-10T00:00:00+07:00
+lastmod: 2023-07-13T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -86,8 +86,18 @@ A. **Why Nature Vs. Nurture is a False Dichotomy**
 ## `2023-07-10`
 
 A. **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian**  
- ~~https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html~~
-   https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp
+ ~~https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html~~  
+   https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp  
    https://pbs.twimg.com/media/E2pV6B9VIAUclxS?format=webp
+
+---
+
+## `2023-07-13`
+
+A. **The Significance of the Heart-Brain Connection**  
+   https://www.psychologytoday.com/intl/blog/explorations-the-mind/202202/the-significance-the-heart-brain-connection
+
+B. **Heart Transplants, Personality Transplants?**  
+   https://www.psychologytoday.com/intl/blog/explorations-the-mind/202110/heart-transplants-personality-transplants
 
 ---
