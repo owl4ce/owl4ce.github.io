@@ -76,9 +76,9 @@ Sebuah daun lontar tersurat kalimat "Maha Pencipta, tentunya mampu mencipta di a
 
 </div>
 
-{{< style "font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl" >}}
+<div style="font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl">
 اَفَلَمْ يَسِيْرُوْا فِى الْاَرْضِ فَتَكُوْنَ لَهُمْ قُلُوْبٌ يَّعْقِلُوْنَ بِهَآ اَوْ اٰذَانٌ يَّسْمَعُوْنَ بِهَاۚ فَاِنَّهَا لَا تَعْمَى الْاَبْصَارُ وَلٰكِنْ تَعْمَى الْقُلُوْبُ الَّتِيْ فِى الصُّدُوْرِ ٤٦
-{{< /style >}}
+</div>
 
 <div style="text-align:justify">
 
@@ -96,9 +96,9 @@ Akibat lemahnya belenggu kecenderungan hati, dari hati itu mengiramakan inti, da
 
 </div>
 
-{{< style "font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl" >}}
+<div style="font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl">
 وَمِنَ النَّاسِ مَنْ يُّجَادِلُ فِى اللّٰهِ بِغَيْرِ عِلْمٍ وَّيَتَّبِعُ كُلَّ شَيْطٰنٍ مَّرِيْدٍۙ ٣
-{{< /style >}}
+</div>
 
 <div style="text-align:justify">
 
