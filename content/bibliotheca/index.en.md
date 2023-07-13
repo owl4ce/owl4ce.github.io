@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-13T00:00:00+07:00
+lastmod: 2023-07-14T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -99,5 +99,12 @@ A. **The Significance of the Heart-Brain Connection**
 
 B. **Heart Transplants, Personality Transplants?**  
    https://www.psychologytoday.com/intl/blog/explorations-the-mind/202110/heart-transplants-personality-transplants
+
+---
+
+## `2023-07-14`
+
+A. **The Microbiota-Gut-Brain Axis**  
+   https://journals.physiology.org/doi/full/10.1152/physrev.00018.2018
 
 ---
