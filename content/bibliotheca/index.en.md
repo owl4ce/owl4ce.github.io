@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-14T00:00:00+07:00
+lastmod: 2023-07-15T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -106,5 +106,15 @@ B. **Heart Transplants, Personality Transplants?**
 
 A. **The Microbiota-Gut-Brain Axis**  
    https://journals.physiology.org/doi/full/10.1152/physrev.00018.2018
+
+---
+
+## `2023-07-15`
+
+A. **Thou shalt not commit logical fallacies**  
+   https://yourlogicalfallacyis.com
+
+B. **Philosophy of Mathematics**  
+   https://plato.stanford.edu/entries/philosophy-mathematics/
 
 ---
