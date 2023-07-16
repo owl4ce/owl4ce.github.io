@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-15T00:00:00+07:00
+lastmod: 2023-07-16T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -116,5 +116,18 @@ A. **Thou shalt not commit logical fallacies**
 
 B. **Philosophy of Mathematics**  
    https://plato.stanford.edu/entries/philosophy-mathematics/
+
+---
+
+## `2023-07-16`
+
+A. **24 Cognitive Biases stuffing up your thinking**  
+   https://yourbias.is
+
+B. **Contradistinction**  
+   https://www.wordgenius.com/words/contradistinction
+
+C. **Truth**  
+   https://plato.stanford.edu/entries/truth/
 
 ---
