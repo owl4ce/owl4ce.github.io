@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-16T00:00:00+07:00
+lastmod: 2023-07-17T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -129,5 +129,12 @@ B. **Contradistinction**
 
 C. **Truth**  
    https://plato.stanford.edu/entries/truth/
+
+---
+
+## `2023-07-17`
+
+A. **Sufism and mental health**  
+   https://ncbi.nlm.nih.gov/pmc/articles/PMC3705685/
 
 ---
