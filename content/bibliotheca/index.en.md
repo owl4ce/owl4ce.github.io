@@ -137,4 +137,13 @@ C. **Truth**
 A. **Sufism and mental health**  
    https://ncbi.nlm.nih.gov/pmc/articles/PMC3705685/
 
+B. **Difference between radicalism and extremism**  
+   https://rap.education/en/background-knowledge/difference-radicalism-and-extremism/
+
+C. **Connotation vs Denotation**  
+   https://www.studiobinder.com/blog/connotation-vs-denotation-examples/
+
+D. **Why It's Dangerous to Label People**  
+   https://www.psychologytoday.com/intl/blog/alternative-truths/201005/why-its-dangerous-label-people
+
 ---
