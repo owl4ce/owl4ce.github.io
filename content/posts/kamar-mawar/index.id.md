@@ -2,7 +2,7 @@
 title: "Kamar Mawar"
 subtitle: ""
 date: 2023-07-06T00:00:00+07:00
-lastmod: 2023-07-09T00:00:00+07:00
+lastmod: 2023-07-20T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -82,15 +82,15 @@ Sebuah daun lontar tersurat kalimat "Maha Pencipta, tentunya mampu mencipta di a
 
 <div style="text-align:justify">
 
-<sub><i>Afalam yasīrū fil-arḍi fa takūna <u>lahum qulūbuy ya‘qilūna bihā</u> au āżānuy yasma‘ūna bihā, fa innahā lā ta‘mal-abṣāru wa lākin <u>ta‘mal-qulūbul-latī fiṣ-ṣudūr(i)</u>.</i></sub>
+<sub><i>Afalam <u>yasīrū</u> fil-arḍi fa takūna <u>lahum qulūbuy ya<b>‘qilū</b>na bihā</u> au āżānuy yasma‘ūna bihā, fa innahā lā ta‘mal-abṣāru wa lākin <u>ta‘mal-qulūbul-latī fiṣ-ṣudūr(i)</u>.</i></sub>
 
-<sub>Tidakkah mereka berjalan di bumi sehingga <u>dengan hati (jantung) mereka dapat mengakalkan</u> atau dengan telinga mereka dapat mendengar? Sesungguhnya bukanlah mata (pandangan) itu yang buta, tetapi <u>yang buta ialah hati (jantung) yang berada dalam dada</u>.</sub>
+<sub>Tidakkah mereka <u>berjalan</u> di bumi sehingga <u>dengan hati (jantung) mereka dapat <i>meng<b>akal</b>kan</i></u> atau dengan telinga mereka dapat mendengar? Sesungguhnya tidaklah mata (pandangan) itu yang buta, tetapi <u>yang buta ialah hati (jantung) yang berada dalam dada</u>.</sub>
 
 ---
 
-Ayat ke-46 dalam surah Al-Ḥajj dengan tegas menyuratkan betapa pentingnya mengikat dua organ substansial insan dalam berupaya memahami sesuatu. Otak kranium mengikat otak jantung yang cenderung menggebu dalam memengaruhi otak kranium. Hubungan dinamis berkesinambungan ini saling berkorelasi terhadap semesta alam. Sehingga dalam paradigma ini, istilah akal kurang tepat dimaknai sebagai alat/benda, akal tepat bila dimaknai sebagai aktivitas/kerja mengakalkan.
+Ayat ke-46 dalam surah Al-Ḥajj dengan tegas menyuratkan betapa pentingnya *mengikat* dua organ substansial insan dalam berupaya memahami sesuatu. Otak kranial *mengikatkan* otak-jantung yang cenderung *menggebu dalam memengaruhi* otak kranial. Hubungan dinamis berkesinambungan ini saling berkorelasi terhadap semesta alam. Sehingga dalam paradigma ini, istilah akal kurang tepat dimaknai sebagai alat/benda, akal tepat bila dimaknai sebagai aktivitas/kerja *mengakalkan*.
 
-Akibat lemahnya belenggu kecenderungan hati, dari hati itu mengiramakan inti, dan inti pikiran tidak tahu segala arah yang pasti. Maka tidak perlu terheran-heran terhadap kalimat tersurat yang sesuka hati, karena itu karat hati, yang tidak sedikit pun berguna dalam mencapai kebenaran sejati.
+Akibat lemahnya belenggu kecenderungan hati, dari hati itu *mengiramakan* inti, dan inti pikiran tidak tahu segala arah yang pasti. Maka tidak perlu terheran-heran terhadap kalimat tersurat yang sesuka hati, karena itu karat hati, yang tidak sedikit pun berguna dalam mencapai kebenaran sejati.
 
 ---
 
@@ -104,14 +104,14 @@ Akibat lemahnya belenggu kecenderungan hati, dari hati itu mengiramakan inti, da
 
 <sub><i>Wa minan-nāsi may yujādilu fillāhi bigairi ‘ilmiw wa yattabi‘u kulla <u>syaiṭānim marīd(in)</u>.</i></sub>
 
-<sub>Di antara manusia ada yang berdebat tentang Allah tanpa pengetahuan (yang memadai) dan (hanya) mengikuti setiap <u>(kecenderungan hati) setan yang sangat durhaka</u>.</sub>
+<sub>Di antara manusia ada yang saling memperdebatkan tentang Allah tanpa pengetahuan (yang memadai) dan (hanya) mengikuti setiap <u>(kecenderungan hati) setan yang sangat durhaka</u>.</sub>
 
 ---
 
-Ayat ke-3 dalam surah Al-Ḥajj menegaskan sekaligus memperingatkan manusia akan mara bahaya paradigma-paradigma semu. Sebab, ilmu pengetahuan yang tidak komprehensif dan lemah dalam membelenggu kecenderungan hati (jantung) akan kecenderungan membuat keputusan-keputusan yang keliru. Pengaruh perikatan yang kurang harmonis terhadap semesta alam ini dikenal sebagai karakter/sifat setan yang identik mengakali, daripada mengakalkan dalam kemasyarakatan.
+Ayat ke-3 dalam surah Al-Ḥajj menegaskan sekaligus memperingatkan manusia akan mara bahaya paradigma-paradigma semu. Sebab, ilmu pengetahuan yang tidak komprehensif dan lemah dalam membelenggu kecenderungan hati (jantung) akan kecenderungan membuat keputusan-keputusan yang keliru. Pengaruh *perikatan* yang kurang harmonis terhadap semesta alam ini dikenal sebagai karakter/sifat setan yang identik *mengakali*, daripada *mengakalkan* dalam kemasyarakatan.
 
-Alhasil dari penguraian "kita ini mati". Maka kita dapat mengidentifikasi, kemudian introspeksi, dari kalimat-kalimat tersurat yang sesuka hati. Kalimat pernyataan mengenai "Maha Pencipta, tentunya mampu mencipta di atas diri-Nya." mengecoh kita dalam berpikir, dengan membuat dilema palsu. Penyalahgunaan bahasa yang kanibal ini saling memakan ketika hanya disajikan dua pilihan, hasil, atau sisi sebagai satu-satunya kemungkinan, kemampuan, atau kepastian. Sisi "Maha" terbentur dengan "di atas diri-Nya" yang sejati "Maha", dan sisi "Pencipta, tentunya mampu mencipta" yang prinsipiel "Maha" menyuratkan suatu kemampuan yang secara tersirat terbentur dengan kausalitas semesta alam. Sebab, "mencipta" suatu ciptaan ini identik dengan pergerakan atau perubahan, yang dikenal sebagai istilah waktu. Masa lalu, masa sekarang, dan masa depan ialah label keadaan.
+Alhasil dari mengungkai "kita ini mati". Maka kita dapat mengidentifikasi, kemudian introspeksi, dari kalimat-kalimat tersurat yang sesuka hati. Kalimat pernyataan mengenai "Maha Pencipta, tentunya mampu mencipta di atas diri-Nya." *mengecoh* kita dalam berpikir, dengan membuat dilema palsu. Penyalahgunaan bahasa yang kanibal ini saling memakan ketika hanya disajikan dua pilihan, hasil, atau sisi sebagai satu-satunya kemungkinan; kemampuan; atau kepastian. Sisi "Maha" terbentur dengan "di atas diri-Nya" yang sejati "Maha", dan sisi "Pencipta, tentunya mampu mencipta" yang prinsipiel "Maha" menyuratkan suatu kemampuan yang secara tersirat terbentur dengan kausalitas semesta alam. Sebab, "mencipta" suatu ciptaan ini identik dengan pergerakan atau perubahan, yang dikenal sebagai istilah waktu. Masa lalu, masa sekarang, dan masa depan ialah label keadaan.
 
-Analogi dari kedua konsep ekstrem itu bagaikan berkas .png opasitas nol persen yang merupakan suatu ketidaktertembusan (maha) yang terbaca oleh pemutar media (semesta alam). Karena kita ini sedang terhalang dengan pengindraan dari pemutar media, mustahil untuk mengetahui hakikat dari berkas itu sendiri diam atau bergerak; nyata atau khayal; terjangkau atau ternihilkan. Namun, karena pemutar media ini sengaja dikonfigurasi dengan kausalitas linear berubah-ubah, kita ini mengetahui secara konsep bahasa bahwa berkas itu yang awal dan yang akhir; yang nyata (secara tersirat karena membaca berkas); yang tidak terjangkau (hakikat berkasnya) semata-mata dengan mengindra.
+Analogi kontras dua konsep pen'cipta'an ini bagai berkas .png opasitas nol persen yang merupakan suatu ketidaktertembusan (maha) yang terbaca dari pemutar media (semesta alam). Karena kita ini sedang terhalang dengan pengindraan dari pemutar media, mustahil untuk mengetahui hakikat dari berkas itu sendiri diam atau bergerak; nyata atau khayal; terjangkau atau ternihilkan. Namun, karena pemutar media ini sengaja dikonfigurasi dengan kausalitas linear berubah-ubah, kita ini mengetahui secara konsep bahasa bahwa berkas itu yang awal dan yang akhir; yang nyata (secara tersirat karena membaca berkas); yang tidak terjangkau (hakikat berkasnya) semata-mata dengan mengindra.
 
 </div>
