@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-17T00:00:00+07:00
+lastmod: 2023-07-21T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -145,5 +145,15 @@ C. **Connotation vs Denotation** |
 
 D. **Why It's Dangerous to Label People** | 
 [1](https://www.psychologytoday.com/intl/blog/alternative-truths/201005/why-its-dangerous-label-people)
+
+---
+
+## `2023-07-21`
+
+A. **Nothingness** | 
+[1](https://plato.stanford.edu/entries/nothingness/)
+
+B. **Curious Chemistry Guides Hydrangea Colors** | 
+[1](https://www.americanscientist.org/article/curious-chemistry-guides-hydrangea-colors)
 
 ---
