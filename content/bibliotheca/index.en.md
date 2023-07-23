@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-23T00:00:00+07:00
+lastmod: 2023-07-24T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -135,7 +135,7 @@ C. **Truth** |
 ## `2023-07-17`
 
 A. **Sufism and mental health** | 
-[1](https://ncbi.nlm.nih.gov/pmc/articles/PMC3705685/)
+[1](https://journals.lww.com/indianjpsychiatry/Fulltext/2013/55002/Sufism_and_mental_health.16)
 
 B. **Difference between radicalism and extremism** | 
 [1](https://rap.education/en/background-knowledge/difference-radicalism-and-extremism/)
@@ -165,5 +165,15 @@ A. **Trinity** |
 
 B. **Bible interpolation** | 
 [1](https://rationalwiki.org/wiki/Bible_interpolation)
+
+---
+
+## `2023-07-24`
+
+A. **Wrinkles in subsecond time perception are synchronized to the heart** | 
+[1](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14270)
+
+B. **Perceived time expands and contracts within each heartbeat** | 
+[1](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00174-4)
 
 ---
