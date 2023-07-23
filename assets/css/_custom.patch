@@ -161,7 +161,7 @@ index 20c1579..5c14226 100644
 -    font-size: 1.2rem;
 +    margin: .9rem 0 1rem;
 +    font-size: 1.1rem;
-+    font-style: italic;
++    font-style: initial;
      font-weight: normal;
      line-height: 100%;
    }
