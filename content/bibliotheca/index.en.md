@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-21T00:00:00+07:00
+lastmod: 2023-07-23T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -115,7 +115,7 @@ A. **Thou shalt not commit logical fallacies** |
 [1](https://yourlogicalfallacyis.com)
 
 B. **Philosophy of Mathematics** | 
-[1](https://plato.stanford.edu/entries/philosophy-mathematics/)
+[1](https://plato.stanford.edu/entries/philosophy-mathematics/#Fut)
 
 ---
 
@@ -128,7 +128,7 @@ B. **Contradistinction** |
 [1](https://www.wordgenius.com/words/contradistinction)
 
 C. **Truth** | 
-[1](https://plato.stanford.edu/entries/truth/)
+[1](https://plato.stanford.edu/entries/truth/#TruAss)
 
 ---
 
@@ -151,9 +151,19 @@ D. **Why It's Dangerous to Label People** |
 ## `2023-07-21`
 
 A. **Nothingness** | 
-[1](https://plato.stanford.edu/entries/nothingness/)
+[1](https://plato.stanford.edu/entries/nothingness/#AniCogAbs)
 
 B. **Curious Chemistry Guides Hydrangea Colors** | 
 [1](https://www.americanscientist.org/article/curious-chemistry-guides-hydrangea-colors)
+
+---
+
+## `2023-07-23`
+
+A. **Trinity** | 
+[1](https://plato.stanford.edu/entries/trinity/#ComNar)
+
+B. **Bible interpolation** | 
+[1](https://rationalwiki.org/wiki/Bible_interpolation)
 
 ---
