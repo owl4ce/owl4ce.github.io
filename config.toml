@@ -235,7 +235,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.home]
     # amount of RSS pages
     # RSS 文章数目
-    rss = 8
+    rss = 100
     # Home page profile
     # 主页个人信息
     [params.home.profile]
@@ -786,7 +786,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         post = ""
         name = ""
         url = "/bibliotheca/"
-        title = "Bibliotheca Intuitiva de Hortensia"
+        title = "Encyclopedia"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "rss"
@@ -811,7 +811,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.en.params.home]
-        rss = 8
+        rss = 100
         [languages.en.params.home.profile]
           enable = false
           gravatarEmail = ""
@@ -849,7 +849,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         post = ""
         name = ""
         url = "../bibliotheca/"
-        title = "Bibliotheca Intuitiva de Hortensia"
+        title = "Ensiklopedia"
       [[languages.id.menu.main]]
         weight = 2
         identifier = "rss"
@@ -874,7 +874,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           appID = ""
           searchKey = ""
       [languages.id.params.home]
-        rss = 8
+        rss = 100
         [languages.id.params.home.profile]
           enable = false
           gravatarEmail = ""
