@@ -57,36 +57,36 @@ seo:
 
 ## `2023-06-16`
 
-A. **The meaning of amour: English translation and more** | 
+- **The meaning of amour: English translation and more** | 
 [1](https://www.ithinklanguages.com/the-meaning-of-amour/)
 
 ---
 
 ## `2023-06-23`
 
-A. **Science of the Heart** | 
+- **Science of the Heart** | 
 [1](https://www.heartmath.org/research/science-of-the-heart/)
 
 ---
 
 ## `2023-06-29`
 
-A. **Archaic Verb Conjugation in English** | 
+- **Archaic Verb Conjugation in English** | 
 [1](https://langeek.co/en/grammar/course/683/archaic-verb-conjugation)
 
 ---
 
 ## `2023-07-06`
 
-A. **Why Nature Vs. Nurture is a False Dichotomy** | 
+- **Why Nature Vs. Nurture is a False Dichotomy** | 
 [1](https://developmentalpsychiatry.com/2021/08/03/why-nature-vs-nurture-is-a-false-dichotomy/)
 
 ---
 
 ## `2023-07-10`
 
-A. **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian** | 
-[~~1~~](https://www.degruyter.com/document/doi/10.1515/9783110199109.2.45/html) | 
+- **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian** | 
+[~~1~~](https://doi.org/10.1515/9783110199109.2.45) | 
 [2](https://pbs.twimg.com/media/E2pV2jvUUAMIt1p?format=webp) | 
 [3](https://pbs.twimg.com/media/E2pV6B9VIAUclxS?format=webp)
 
@@ -94,86 +94,86 @@ A. **Did he break your heart or your liver? A contrastive study on metaphorical 
 
 ## `2023-07-13`
 
-A. **The Significance of the Heart-Brain Connection** | 
+- **The Significance of the Heart-Brain Connection** | 
 [1](https://www.psychologytoday.com/intl/blog/explorations-the-mind/202202/the-significance-the-heart-brain-connection)
 
-B. **Heart Transplants, Personality Transplants?** | 
+- **Heart Transplants, Personality Transplants?** | 
 [1](https://www.psychologytoday.com/intl/blog/explorations-the-mind/202110/heart-transplants-personality-transplants)
 
 ---
 
 ## `2023-07-14`
 
-A. **The Microbiota-Gut-Brain Axis** | 
-[1](https://journals.physiology.org/doi/full/10.1152/physrev.00018.2018)
+- **The Microbiota-Gut-Brain Axis** | 
+[1](https://doi.org/10.1152/physrev.00018.2018)
 
 ---
 
 ## `2023-07-15`
 
-A. **Thou shalt not commit logical fallacies** | 
+- **Thou shalt not commit logical fallacies** | 
 [1](https://yourlogicalfallacyis.com)
 
-B. **Philosophy of Mathematics** | 
+- **Philosophy of Mathematics** | 
 [1](https://plato.stanford.edu/entries/philosophy-mathematics/#Fut)
 
 ---
 
 ## `2023-07-16`
 
-A. **24 Cognitive Biases stuffing up your thinking** | 
+- **24 Cognitive Biases stuffing up your thinking** | 
 [1](https://yourbias.is)
 
-B. **Contradistinction** | 
+- **Contradistinction** | 
 [1](https://www.wordgenius.com/words/contradistinction)
 
-C. **Truth** | 
+- **Truth** | 
 [1](https://plato.stanford.edu/entries/truth/#TruAss)
 
 ---
 
 ## `2023-07-17`
 
-A. **Sufism and mental health** | 
-[1](https://journals.lww.com/indianjpsychiatry/Fulltext/2013/55002/Sufism_and_mental_health.16)
+- **Sufism and mental health** | 
+[1](https://doi.org/10.4103%2F0019-5545.105535)
 
-B. **Difference between radicalism and extremism** | 
+- **Difference between radicalism and extremism** | 
 [1](https://rap.education/en/background-knowledge/difference-radicalism-and-extremism/)
 
-C. **Connotation vs Denotation** | 
+- **Connotation vs Denotation** | 
 [1](https://www.studiobinder.com/blog/connotation-vs-denotation-examples/)
 
-D. **Why It's Dangerous to Label People** | 
+- **Why It's Dangerous to Label People** | 
 [1](https://www.psychologytoday.com/intl/blog/alternative-truths/201005/why-its-dangerous-label-people)
 
 ---
 
 ## `2023-07-21`
 
-A. **Nothingness** | 
+- **Nothingness** | 
 [1](https://plato.stanford.edu/entries/nothingness/#AniCogAbs)
 
-B. **Curious Chemistry Guides Hydrangea Colors** | 
+- **Curious Chemistry Guides Hydrangea Colors** | 
 [1](https://www.americanscientist.org/article/curious-chemistry-guides-hydrangea-colors)
 
 ---
 
 ## `2023-07-23`
 
-A. **Trinity** | 
+- **Trinity** | 
 [1](https://plato.stanford.edu/entries/trinity/#ComNar)
 
-B. **Bible interpolation** | 
+- **Bible interpolation** | 
 [1](https://rationalwiki.org/wiki/Bible_interpolation)
 
 ---
 
 ## `2023-07-24`
 
-A. **Wrinkles in subsecond time perception are synchronized to the heart** | 
-[1](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14270)
+- **Wrinkles in subsecond time perception are synchronized to the heart** | 
+[1](https://doi.org/10.1111/psyp.14270)
 
-B. **Perceived time expands and contracts within each heartbeat** | 
-[1](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00174-4)
+- **Perceived time expands and contracts within each heartbeat** | 
+[1](https://doi.org/10.1016/j.cub.2023.02.034)
 
 ---
