@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-30T00:00:00+07:00
+lastmod: 2023-07-31T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -182,5 +182,18 @@ seo:
 
 - **Difference Between “Comprehend” and “Understand”** | 
 [1](https://grammarhow.com/difference-between-comprehend-and-understand/)
+
+---
+
+## `2023-07-31`
+
+- **Medina Charter of Prophet Muhammad and Pluralism** | 
+[1](https://www.islamicity.org/5685/medina-charter-of-prophet-muhammad-and-pluralism/)
+
+- **Pancasila Untuk Dunia** | 
+[1](https://www.teodisi.com/2022/06/pancasila-untuk-dunia.html)
+
+- **Islam Bukan Agama?** | 
+[1](https://www.teodisi.com/2020/06/islam-bukan-agama.html)
 
 ---
