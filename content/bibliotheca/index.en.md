@@ -4,9 +4,9 @@ subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
 lastmod: 2023-07-31T00:00:00+07:00
 draft: false
-author: "Violet Hortensia"
+author: "Hortensia"
 authorLink: ""
-description: "Intuitiva de Hortensia"
+description: "Love the harmony, as thou lovedst thyself."
 license: ""
 images: []
 
@@ -73,6 +73,9 @@ seo:
 
 - **Archaic Verb Conjugation in English** | 
 [1](https://langeek.co/en/grammar/course/683/archaic-verb-conjugation)
+
+- **"Archaic Pronouns" in English Grammar** | 
+[1](https://langeek.co/en/grammar/course/8/archaic-pronouns)
 
 ---
 
@@ -190,10 +193,13 @@ seo:
 - **Medina Charter of Prophet Muhammad and Pluralism** | 
 [1](https://www.islamicity.org/5685/medina-charter-of-prophet-muhammad-and-pluralism/)
 
-- **Pancasila Untuk Dunia** | 
+- **The Meaning of ‘Deen’ in Arabic** | 
+[1](https://www.getquranic.com/meaning-of-deen/)
+
+- **_Pancasila Untuk Dunia_** | 
 [1](https://www.teodisi.com/2022/06/pancasila-untuk-dunia.html)
 
-- **Islam Bukan Agama?** | 
+- **_Islam Bukan Agama?_** | 
 [1](https://www.teodisi.com/2020/06/islam-bukan-agama.html)
 
 ---
