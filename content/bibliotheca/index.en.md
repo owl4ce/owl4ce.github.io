@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-07-31T00:00:00+07:00
+lastmod: 2023-08-03T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -201,5 +201,21 @@ seo:
 
 - **_Islam Bukan Agama?_** | 
 [1](https://www.teodisi.com/2020/06/islam-bukan-agama.html)
+
+---
+
+## `2023-08-03`
+
+- **The traditional structure of Russian personal names** | 
+[1](https://www.justrussian.com/russian-names/)
+
+- **How Byzantine Architecture Influenced the World** | 
+[1](https://greekreporter.com/2022/12/06/byzantine-architecture-influenced-world/)
+
+- **Byzantine Architecture** | 
+[1](https://artincontext.org/byzantine-architecture/)
+
+- **Kaaba in Mecca** | 
+[1](https://artincontext.org/kaaba-in-mecca/)
 
 ---
