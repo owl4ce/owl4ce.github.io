@@ -34,7 +34,10 @@ jobs:
         run: |
           (rm -fv ./assets/css/_custom.scss && patch -p0 -i ./assets/css/_custom.patch)
           hugo --minify --noBuildLock --baseURL 'https://crdinusc.eu.org' > /tmp/hugo_cache/render.log
-          sed -e "1s|.*|$(head -n1 ./public/robots.txt | cut -c 3-)|" /tmp/hugo_cache/render.log > ./public/gohugo-codegen-perf.txt
+          { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
+          sed -e "1s|.*|${EXTENDED_TITLE}|" \
+              -e "2s|.*|$(printf '%0.s=' $(eval 'echo {1..${#EXTENDED_TITLE}}'))|" \
+          /tmp/hugo_cache/render.log > ./public/gohugo-codegen-perf.txt
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
