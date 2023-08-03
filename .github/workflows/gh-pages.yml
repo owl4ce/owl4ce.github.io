@@ -36,7 +36,7 @@ jobs:
           hugo --minify --noBuildLock --baseURL 'https://crdinusc.eu.org' > /tmp/hugo_cache/render.log
           { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
           sed -e "1s|.*|${EXTENDED_TITLE}|" \
-              -e "2s|.*|$(printf '%0.s=' $(eval 'echo {1..${#EXTENDED_TITLE}}'))|" \
+              -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#EXTENDED_TITLE}))|" \
           /tmp/hugo_cache/render.log > ./public/gohugo-codegen-perf.txt
 
       - name: Deploy
