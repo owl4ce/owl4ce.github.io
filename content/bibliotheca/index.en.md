@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-03T00:00:00+07:00
+lastmod: 2023-08-06T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -54,6 +54,8 @@ seo:
 <!--more-->
 
 ---
+
+<sup>The respective author(s) does not endorses linked sources, which contains particular posts, either implicitly or explicitly whether supports sensitive issues, e.g. political movements especially rights. Either way, the concept of "right" means no more than that.</sup>
 
 ## `2023-06-16`
 
@@ -217,5 +219,15 @@ seo:
 
 - **Kaaba in Mecca** | 
 [1](https://artincontext.org/kaaba-in-mecca/)
+
+---
+
+## `2023-08-06`
+
+- **Brain Anatomy and How the Brain Works** | 
+[1](https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain)
+
+- **What Part of the Brain Controls Speech?** | 
+[1](https://psychcentral.com/health/what-part-of-the-brain-controls-speech)
 
 ---
