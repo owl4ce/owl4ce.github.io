@@ -230,4 +230,10 @@ seo:
 - **What Part of the Brain Controls Speech?** | 
 [1](https://psychcentral.com/health/what-part-of-the-brain-controls-speech)
 
+- **Character Attacks: How to Properly Apply the Ad Hominem** | 
+[1](https://www.scientificamerican.com/article/character-attack/)
+
+- **Browse or Search Logical Fallacies** | 
+[1](https://www.logicallyfallacious.com/logicalfallacies/search)
+
 ---
