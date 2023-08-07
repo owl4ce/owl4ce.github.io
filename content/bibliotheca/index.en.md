@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-06T00:00:00+07:00
+lastmod: 2023-08-08T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -175,9 +175,6 @@ seo:
 
 ## `2023-07-24`
 
-- **Wrinkles in subsecond time perception are synchronized to the heart** | 
-[1](https://doi.org/10.1111/psyp.14270)
-
 - **Perceived time expands and contracts within each heartbeat** | 
 [1](https://doi.org/10.1016/j.cub.2023.02.034)
 
@@ -208,9 +205,6 @@ seo:
 
 ## `2023-08-03`
 
-- **The traditional structure of Russian personal names** | 
-[1](https://www.justrussian.com/russian-names/)
-
 - **How Byzantine Architecture Influenced the World** | 
 [1](https://greekreporter.com/2022/12/06/byzantine-architecture-influenced-world/)
 
@@ -235,5 +229,30 @@ seo:
 
 - **Browse or Search Logical Fallacies** | 
 [1](https://www.logicallyfallacious.com/logicalfallacies/search)
+
+---
+
+## `2023-08-08`
+
+- **Why Decluttering Your Room Can Lead to Increased Brain Power** | 
+[1](https://www.psychologytoday.com/us/blog/social-instincts/202308/why-decluttering-your-room-can-lead-to-increased-brain-power)
+
+- **How to Identify Toxic, Foolish, and Wise People?** | 
+[1](https://www.psychologytoday.com/us/blog/finding-new-home/201810/how-identify-toxic-foolish-and-wise-people)
+
+- **7 Habits of a Fool** | 
+[1](https://www.forthegospel.org/read/7-habits-of-a-fool)
+
+- **Enjoining Good and Avoiding (Arguments with) Fools; Attributes of Akhlaq (character) of Prophets of Allah** | 
+[1](https://www.prophetmuhammad.com/prophet-muhammad-akhlaq/enjoining-good-and-avoiding-arguments-with-fools-attributes-of-akhlaq-character-of-prophets-of-allah_67)
+
+- **Muhammad: Origins of Islam** | 
+[1](https://humanjourney.us/ideas-that-shaped-our-modern-world-section/muhammad-origins-of-islam/)
+
+- **Jesus: Origins of Christianity** | 
+[1](https://humanjourney.us/ideas-that-shaped-our-modern-world-section/jesus-origins-of-christianity/)
+
+- **Ideas That Shaped Our Modern World** | 
+[1](https://humanjourney.us/ideas-that-shaped-our-modern-world-section/)
 
 ---
