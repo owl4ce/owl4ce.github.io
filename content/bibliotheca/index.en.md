@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-08T00:00:00+07:00
+lastmod: 2023-08-11T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -254,5 +254,18 @@ seo:
 
 - **Ideas That Shaped Our Modern World** | 
 [1](https://humanjourney.us/ideas-that-shaped-our-modern-world-section/)
+
+---
+
+## `2023-08-11`
+
+- **A Dramatic Turn of Events** | 
+[1](https://dreamtheater.net/discography/a-dramatic-turn-of-events/)
+
+- **Why You Should Be Listening to Dream Theater (Writers, Especially)** | 
+[1](https://www.orullian.rocks/post/why-you-should-be-listening-to-dream-theater-writers-especially)
+
+- **_Dream Theater: Sebuah “Ketidakteraturan” yang Teratur_** | 
+[1](https://indraprasetyo.com/dream-theater-sebuah-ketidakteraturan-yang-teratur/)
 
 ---
