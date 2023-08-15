@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-11T00:00:00+07:00
+lastmod: 2023-08-16T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -267,5 +267,12 @@ seo:
 
 - **_Dream Theater: Sebuah “Ketidakteraturan” yang Teratur_** | 
 [1](https://indraprasetyo.com/dream-theater-sebuah-ketidakteraturan-yang-teratur/)
+
+---
+
+## `2023-08-16`
+
+- **Identification of pre-fertilization reproductive barriers and the underlying cytological mechanism in crosses among three petal-types of Jasminum sambac and their relevance to phylogenetic relationships** | 
+[1](https://doi.org/10.1371/journal.pone.0176026)
 
 ---
