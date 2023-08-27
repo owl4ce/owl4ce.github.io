@@ -33,11 +33,13 @@ jobs:
       - name: Build
         run: |
           (rm -fv ./assets/css/_custom.scss && patch -p0 -i ./assets/css/_custom.patch)
-          hugo --minify --noBuildLock --baseURL 'https://crdinusc.eu.org' > /tmp/hugo_cache/render.log
-          { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
-          sed -e "1s|.*|${EXTENDED_TITLE}|" \
-              -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#EXTENDED_TITLE}))|" \
-          /tmp/hugo_cache/render.log > ./public/gohugo-codegen-perf.txt
+          hugo --minify --noBuildLock --baseURL 'https://crdinusc.eu.org' | tee /tmp/gohugo_render.log
+          if [ -r /tmp/gohugo_render.log ]; then
+              { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
+              sed -e "1s|.*|${EXTENDED_TITLE}|" \
+                  -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#EXTENDED_TITLE}))|" \
+              /tmp/gohugo_render.log > ./public/gohugo-codegen-perf.txt
+          fi
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
