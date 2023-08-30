@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-30T00:00:00+07:00
+lastmod: 2023-08-31T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -284,5 +284,12 @@ seo:
 
 - **_Perlu Tahu, Ini Perbedaan Berpikir Kritis dan Overthinking_** | 
 [1](https://www.halodoc.com/artikel/perlu-tahu-ini-perbedaan-berpikir-kritis-dan-overthinking)
+
+---
+
+## `2023-08-31`
+
+- **_Menjaga Lisan Agar Selalu Berbicara Baik_** | 
+[1](https://almanhaj.or.id/3197-menjaga-lisan-agar-selalu-berbicara-baik.html)
 
 ---
