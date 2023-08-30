@@ -94,9 +94,9 @@ Adakala jibaku memalu pengin
 
 <!-- 4 5 4 3 -->
 
-Jika apa menanya mengapa  
-Maka ku ramu apanya siapa?  
-Belaka memaku semunya apa  
+Jika *apa* menanya mengapa  
+Maka ku ramu *apanya* siapa?  
+Belaka memaku semunya *apa*  
 Celaka aku-aku kenapa?
 
 <!-- 3 4 3 4 -->
