@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-08-16T00:00:00+07:00
+lastmod: 2023-08-30T00:00:00+07:00
 draft: false
 author: "Hortensia"
 authorLink: ""
@@ -274,5 +274,15 @@ seo:
 
 - **Identification of pre-fertilization reproductive barriers and the underlying cytological mechanism in crosses among three petal-types of Jasminum sambac and their relevance to phylogenetic relationships** | 
 [1](https://doi.org/10.1371/journal.pone.0176026)
+
+---
+
+## `2023-08-30`
+
+- **Nature: Thinking vs. Feeling** | 
+[1](https://www.16personalities.com/articles/nature-thinking-vs-feeling)
+
+- **_Perlu Tahu, Ini Perbedaan Berpikir Kritis dan Overthinking_** | 
+[1](https://www.halodoc.com/artikel/perlu-tahu-ini-perbedaan-berpikir-kritis-dan-overthinking)
 
 ---
