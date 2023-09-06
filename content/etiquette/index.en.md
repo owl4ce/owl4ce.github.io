@@ -2,7 +2,7 @@
 title: "Etiquette"
 subtitle: ""
 date: 2023-05-11T00:00:00+07:00
-lastmod: 2023-09-04T00:00:00+07:00
+lastmod: 2023-09-07T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -57,8 +57,22 @@ seo:
 
 <div style="text-align:justify">
 
-**Cras**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/kraːs/</span>) in Latin, means **Morrow**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/ˈmɒɹ.əʊ/</span>) in archaic style, is a web-book created to publish various authentic literary works written by Violet Hortensia. Since authentic-unique literary works were semi-open licensed, i.e. conditional reproduction of copies is permitted.[^1] It is highly prohibited to arbitrarily use or copy the same sentences precisely without following the terms, as stated at the footer of the page. Contact or critique alternate-se<span style='color:#cf8ef4'>7</span>en(at)crdinusc.eu.org.
+**Cras**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/kraːs/</span>) in Latin, means **Morrow**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/ˈmɒɹ.əʊ/</span>) in archaic style, is a web-book created to publish various literary works written by the corresponding author. Since authentic-unique literary works were semi-open licensed, i.e. conditional reproduction of copies is permitted. It is highly prohibited to arbitrarily use or copy the same sentences precisely without following the terms, as stated at the footer of the page. Contact or critique alternate-se<span style='color:#cf8ef4'>7</span>en(at)crdinusc.eu.org.
 
-[^1]: The contents were digitally signed separately, as proof of originality and purely non-profit.
+<br>
+
+<div style="text-align:right">
+
+Corresponding author,
+
+<br>
+
+<img src="/lib/images/vh.webp" alt="Signature" title="The contents were digitally signed separately, as proof of originality and purely non-profit." height="87vh" oncontextmenu="return!1"/>
+
+Violet Hortensia
+
+</div>
+
+---
 
 </div>
