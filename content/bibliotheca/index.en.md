@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-09-04T00:00:00+07:00
+lastmod: 2023-09-15T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -27,7 +27,7 @@ linkToMarkdown: false
 rssFullText: false
 
 toc:
-  enable: false
+  enable: true
   auto: true
 code:
   copy: false
@@ -305,5 +305,12 @@ seo:
 
 - **_Fiqh dan Ushul Fiqh: Metode Istinbath dan Istidlal_** | 
 `978-979-692-144-7`
+
+---
+
+## 2023-09-15
+
+- **_Sebuah "Tren Baru" Musik Campursari_** | 
+[1](https://www.goodnewsfromindonesia.id/2017/01/22/sebuah-tren-baru-musik-campursari)
 
 ---
