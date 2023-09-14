@@ -59,15 +59,15 @@ seo:
 
 **Cras**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/kraːs/</span>) in Latin, means **Morrow**<b style='color:#fa74b2'>.</b> (<span style='font-family:auto'>/ˈmɒɹ.əʊ/</span>) in archaic style, is a web-book created to publish various literary works written by the corresponding author. Since authentic-unique literary works were semi-open licensed, i.e. conditional reproduction of copies is permitted. It is highly prohibited to arbitrarily use or copy the same sentences precisely without following the terms, as stated at the footer of the page. Contact or critique alternate-se<span style='color:#cf8ef4'>7</span>en(at)crdinusc.eu.org.
 
-<br>
+<br style="display:block;content:'';margin:1.25rem 0">
 
 <div style="text-align:right">
 
 Corresponding author,
 
-<br>
+<br style="display:block;content:'';margin:1.25rem 0">
 
-<img src="/lib/images/vh.webp" alt="Signature" title="The contents were digitally signed separately, as proof of originality and purely non-profit." height="87vh" oncontextmenu="return!1"/>
+<img src="/lib/images/vh.webp" alt="" title="The contents were digitally signed separately, as proof of originality and purely non-profit." height="87vh" oncontextmenu="return!1"/>
 
 Violet Hortensia
 
