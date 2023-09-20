@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-09-17T00:00:00+07:00
+lastmod: 2023-09-20T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -322,5 +322,19 @@ seo:
 
 - **_Membumikan Konsep Ulul Albab_** | 
 [1](https://www.uii.ac.id/membumikan-konsep-ulul-albab/)
+
+---
+
+## 2023-09-20
+
+- **_7 Cara Menghilangkan Kantuk saat Bekerja_** | 
+[1](https://www.halodoc.com/artikel/7-cara-menghilangkan-kantuk-saat-bekerja)
+
+- **What It Means If You Listen To The Lyrics Vs. The Music When You Hear A Song** | 
+[1](https://www.yourtango.com/self/what-it-means-if-you-hear-lyrics-vs-music)
+
+- **Violent Music Lyrics Increase Aggressive Thoughts and Feelings, According to New Study** | 
+[~~1~~](https://doi.org/10.1037/0022-3514.84.5.960) |
+[2](https://www.apa.org/news/press/releases/2003/05/violent-songs)
 
 ---
