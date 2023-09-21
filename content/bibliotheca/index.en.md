@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-09-20T00:00:00+07:00
+lastmod: 2023-09-22T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -336,5 +336,12 @@ seo:
 - **Violent Music Lyrics Increase Aggressive Thoughts and Feelings, According to New Study** | 
 [~~1~~](https://doi.org/10.1037/0022-3514.84.5.960) |
 [2](https://www.apa.org/news/press/releases/2003/05/violent-songs)
+
+---
+
+## 2023-09-22
+
+- **_Manusia Memanusiakan Manusia_** | 
+[1](https://www.readers.id/read/manusia-memanusiakan-manusia/)
 
 ---
