@@ -1,7 +1,7 @@
 ---
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
-date: 2023-06-23T00:00:00+07:00
+date: 2023-06-16T00:00:00+07:00
 lastmod: 2023-09-24T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
@@ -356,6 +356,15 @@ seo:
 
 - **What is OCD?** | 
 [1](https://iocdf.org/about-ocd/)
+
+- **What Causes OCD?** | 
+[1](https://iocdf.org/about-ocd/what-causes-ocd/)
+
+- **OCD Counting: Everything You Need To Know** | 
+[1](https://www.simplypsychology.org/counting-ocd-arithmomania.html)
+
+- **How To Increase Serotonin: Naturally & With Medication** | 
+[1](https://www.simplypsychology.org/how-to-increase-serotonin.html)
 
 - **How to increase serotonin in the human brain without drugs** | 
 [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18043762/)
