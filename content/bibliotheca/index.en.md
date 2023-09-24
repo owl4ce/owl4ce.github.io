@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-23T00:00:00+07:00
-lastmod: 2023-09-22T00:00:00+07:00
+lastmod: 2023-09-24T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -334,7 +334,7 @@ seo:
 [1](https://www.yourtango.com/self/what-it-means-if-you-hear-lyrics-vs-music)
 
 - **Violent Music Lyrics Increase Aggressive Thoughts and Feelings, According to New Study** | 
-[~~1~~](https://doi.org/10.1037/0022-3514.84.5.960) |
+[~~1~~](https://doi.org/10.1037/0022-3514.84.5.960) | 
 [2](https://www.apa.org/news/press/releases/2003/05/violent-songs)
 
 ---
@@ -343,5 +343,21 @@ seo:
 
 - **_Manusia Memanusiakan Manusia_** | 
 [1](https://www.readers.id/read/manusia-memanusiakan-manusia/)
+
+---
+
+## 2023-09-24
+
+- **Energy: Intuitive vs. Observant** | 
+[1](https://www.16personalities.com/articles/energy-intuitive-vs-observant)
+
+- **That gut feeling** | 
+[1](https://www.apa.org/monitor/2012/09/gut-feeling)
+
+- **What is OCD?** | 
+[1](https://iocdf.org/about-ocd/)
+
+- **How to increase serotonin in the human brain without drugs** | 
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18043762/)
 
 ---
