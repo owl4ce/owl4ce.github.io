@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2023-09-24T00:00:00+07:00
+lastmod: 2023-10-22T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -368,5 +368,18 @@ seo:
 
 - **How to increase serotonin in the human brain without drugs** | 
 [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18043762/)
+
+---
+
+## 2023-10-22
+
+- **_“Cinta Dalam Diam”_** | 
+[1](https://baitulmuslim.com/artikel-motivasi/cinta-dalam-diam)
+
+- **_Menilik 9 Tanda Orang Saling Mencintai Dalam Diam_** | 
+[1](https://katadata.co.id/agung/berita/636b1838cb151/menilik-9-tanda-orang-saling-mencintai-dalam-diam)
+
+- **_Delusi Cinta yang Tidak Nyata, Kenali Gejala Erotomania_** | 
+[1](https://www.halodoc.com/artikel/delusi-cinta-yang-tidak-nyata-kenali-gejala-erotomania)
 
 ---
