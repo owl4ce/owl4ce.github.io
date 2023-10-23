@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2023-10-22T00:00:00+07:00
+lastmod: 2023-10-24T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -381,5 +381,12 @@ seo:
 
 - **_Delusi Cinta yang Tidak Nyata, Kenali Gejala Erotomania_** | 
 [1](https://www.halodoc.com/artikel/delusi-cinta-yang-tidak-nyata-kenali-gejala-erotomania)
+
+---
+
+## 2023-10-24
+
+- **_Bagaimana Menyikapi Penguasa Dzalim_** | 
+[1](https://alhikmah.ac.id/bagaimana-menyikapi-penguasa-dzalim/)
 
 ---
