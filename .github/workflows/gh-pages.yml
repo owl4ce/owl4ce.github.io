@@ -20,7 +20,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.119.0'
           extended: true
 
       - uses: actions/cache@v3
@@ -38,6 +38,7 @@ jobs:
               { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
               sed -e "1s|.*|${EXTENDED_TITLE}|" \
                   -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#EXTENDED_TITLE}))|" \
+                  -e '3d' \
               /tmp/gohugo_render.log > ./public/gohugo-codegen-perf.txt
           fi
 
