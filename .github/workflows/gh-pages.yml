@@ -38,7 +38,7 @@ jobs:
               { read GRAB_TITLE < ./public/robots.txt && export EXTENDED_TITLE="${GRAB_TITLE##\#\ }"; }
               sed -e "1s|.*|${EXTENDED_TITLE}|" \
                   -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#EXTENDED_TITLE}))|" \
-                  -e '3d' \
+                  -e '3d;4d' \
               /tmp/gohugo_render.log > ./public/gohugo-codegen-perf.txt
           fi
 
