@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2023-10-31T00:00:00+07:00
+lastmod: 2023-11-01T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -232,9 +232,6 @@ seo:
 - **How to Identify Toxic, Foolish, and Wise People?** | 
 [1](https://www.psychologytoday.com/us/blog/finding-new-home/201810/how-identify-toxic-foolish-and-wise-people)
 
-- **7 Habits of a Fool** | 
-[1](https://www.forthegospel.org/read/7-habits-of-a-fool)
-
 - **Enjoining Good and Avoiding (Arguments with) Fools; Attributes of Akhlaq (character) of Prophets of Allah** | 
 [1](https://www.prophetmuhammad.com/prophet-muhammad-akhlaq/enjoining-good-and-avoiding-arguments-with-fools-attributes-of-akhlaq-character-of-prophets-of-allah_67)
 
@@ -389,5 +386,19 @@ seo:
 
 - **_Filsafat Cinta: Pandangan Erich Fromm dan Sokrates Mengenai Cinta_** | 
 [1](https://lsfdiscourse.org/filsafat-cinta-pandangan-erich-fromm-dan-sokrates-mengenai-cinta/)
+
+---
+
+## 2023-11-01
+
+- **Two greatest commandments (Mark 12:28-34)** | 
+[1](https://www.jw.org/en/library/bible/study-bible/books/mark/12/#v41012028-v41012034)
+
+- **Counsel on oaths, retaliation, and love for enemies (Matthew 5:33-48)** | 
+[1](https://www.jw.org/en/library/bible/study-bible/books/matthew/5/#v40005033-v40005048)
+
+- **Al-Qur'an 5:39-93** | 
+[1](https://quran.com/5?startingVerse=39) | 
+[2](https://quran.kemenag.go.id/quran/per-ayat/surah/5?from=39&to=93)
 
 ---
