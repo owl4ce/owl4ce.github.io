@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2023-11-01T00:00:00+07:00
+lastmod: 2024-02-03T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -400,5 +400,15 @@ seo:
 - **Al-Qur'an 5:39-93** | 
 [1](https://quran.com/5?startingVerse=39) | 
 [2](https://quran.kemenag.go.id/quran/per-ayat/surah/5?from=39&to=93)
+
+---
+
+## 2024-02-03
+
+- **_Tafsir Al-Qur'an Tematik: Taufiq, Hidayah dan Inayah_** | 
+[1](https://www.dialogilmu.com/2017/11/tafsir-al-quran-tematik-taufiq-hidayah-inayah.html)
+
+- **Melancholic Personality Traits – Patient, Orderly and Attentive** | 
+[1](https://psychologia.co/melancholic-personality/)
 
 ---
