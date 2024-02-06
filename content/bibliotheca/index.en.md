@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-02-03T00:00:00+07:00
+lastmod: 2024-02-07T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -410,5 +410,12 @@ seo:
 
 - **Melancholic Personality Traits – Patient, Orderly and Attentive** | 
 [1](https://psychologia.co/melancholic-personality/)
+
+---
+
+## 2024-02-07
+
+- **_Epistemologi Muhammad Iqbal: Relasi antara Akal, Panca Indra, dan Intuisi_** | 
+[1](https://lsfdiscourse.org/epistemologi-muhammad-iqbal-relasi-antara-akal-panca-indra-dan-intuisi/)
 
 ---
