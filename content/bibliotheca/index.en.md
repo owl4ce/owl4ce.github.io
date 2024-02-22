@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-02-07T00:00:00+07:00
+lastmod: 2024-02-17T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -367,9 +367,6 @@ seo:
 - **_“Cinta Dalam Diam”_** | 
 [1](https://baitulmuslim.com/artikel-motivasi/cinta-dalam-diam)
 
-- **_Menilik 9 Tanda Orang Saling Mencintai Dalam Diam_** | 
-[1](https://katadata.co.id/agung/berita/636b1838cb151/menilik-9-tanda-orang-saling-mencintai-dalam-diam)
-
 - **_Delusi Cinta yang Tidak Nyata, Kenali Gejala Erotomania_** | 
 [1](https://www.halodoc.com/artikel/delusi-cinta-yang-tidak-nyata-kenali-gejala-erotomania)
 
@@ -417,5 +414,12 @@ seo:
 
 - **_Epistemologi Muhammad Iqbal: Relasi antara Akal, Panca Indra, dan Intuisi_** | 
 [1](https://lsfdiscourse.org/epistemologi-muhammad-iqbal-relasi-antara-akal-panca-indra-dan-intuisi/)
+
+---
+
+## 2024-02-17
+
+- **_Mencintaimu dalam Diam karena Allah_** | 
+[1](https://www.islampos.com/mencintaimu-dalam-diam-karena-allah-111697/)
 
 ---
