@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-02-17T00:00:00+07:00
+lastmod: 2024-02-18T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -421,5 +421,21 @@ seo:
 
 - **_Mencintaimu dalam Diam karena Allah_** | 
 [1](https://www.islampos.com/mencintaimu-dalam-diam-karena-allah-111697/)
+
+---
+
+## 2024-02-18
+
+- **_FILSAFAT PENDIDIKAN ISLAMI: Integrasi Jasmani, Rohani, dan Kalbu; Memanusiakan Manusia_** | 
+`978-979-692-592-3`
+
+- **_Pengantar FILSAFAT NILAI_** | 
+`978-979-076-236-7`
+
+- **_Pengantar FILSAFAT ILMU ALAM_** | 
+`979-979-3477-66-0`
+
+- **_HERMENEUTIKA: Sebuah Pengantar Singkat_** | 
+`978-623-6166-71-0`
 
 ---
