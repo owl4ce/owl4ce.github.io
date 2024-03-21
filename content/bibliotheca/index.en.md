@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-02-18T00:00:00+07:00
+lastmod: 2024-03-21T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -437,5 +437,16 @@ seo:
 
 - **_HERMENEUTIKA: Sebuah Pengantar Singkat_** | 
 `978-623-6166-71-0`
+
+---
+
+## 2024-03-20
+
+- **Do not love the world (1 John 2:15-17)** | 
+[1](https://www.jw.org/en/library/bible/study-bible/books/1-john/2/#v62002015)
+
+- **Al-Qur'an 45:23** | 
+[1](https://quran.com/45?startingVerse=23) | 
+[2](https://quran.kemenag.go.id/quran/per-ayat/surah/45?from=23)
 
 ---
