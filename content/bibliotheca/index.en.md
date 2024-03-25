@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-03-21T00:00:00+07:00
+lastmod: 2024-03-25T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -448,5 +448,12 @@ seo:
 - **Al-Qur'an 45:23** | 
 [1](https://quran.com/45?startingVerse=23) | 
 [2](https://quran.kemenag.go.id/quran/per-ayat/surah/45?from=23)
+
+---
+
+## 2024-03-25
+
+- **The Language of Thought Hypothesis** | 
+[1](https://plato.stanford.edu/entries/language-thought/#IndiMentExpr)
 
 ---
