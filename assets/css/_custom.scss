@@ -1,0 +1,164 @@
+
+/* _core/_footer.scss */
+
+footer {
+  height: initial !important;
+  padding: .76rem 0 !important;
+}
+
+/* _core/_header.scss */
+
+#header-desktop .menu-item.search {
+  margin-right: -.25rem !important;
+}
+
+#header-desktop.open .menu-item.search {
+  margin-right: .25rem !important;
+}
+
+.open .search input, .search.mobile input {
+  padding: 0 2.8rem 0 2.3rem !important;
+  border-radius: 1.25rem !important;
+}
+
+.search-footer {
+  display: none !important;
+}
+
+/* _page/_home.scss */
+
+.home[data-home=posts] {
+  .summary {
+    padding-top: .8rem !important;
+    margin: 1rem 0 !important;
+    [theme=dark] & {
+      border-top: 1px dashed $global-border-color-dark !important;
+      background: repeating-linear-gradient(45deg, $header-background-color-dark, transparent 17%) !important;
+    }
+    border-top: 1px dashed $global-border-color !important;
+    background: repeating-linear-gradient(45deg, $header-background-color, transparent 17%) !important;
+    .featured-image-preview {
+      opacity: .9 !important;
+      margin-top: -.8rem !important;
+      [theme=dark] & {
+        border-bottom: 1px dashed $global-border-color-dark !important;
+      }
+      border-bottom: 1px dashed $global-border-color !important;
+    }
+  }
+}
+
+/* _page/_single.scss */
+
+.single {
+  .single-subtitle {
+    margin: .9rem 0 1rem !important;
+    font-size: 1.1rem !important;
+    font-style: initial !important;
+  }
+  .post-meta {
+    .author {
+      font-size: inherit !important;
+    }
+  }
+  .content {
+    > h2,
+    > h3,
+    > h4,
+    > h5,
+    > h6 {
+      > .header-mark::before {
+        content: "" !important;
+        padding-left: 2rem !important;
+        margin-left: -2rem !important;
+        margin-right: -.1rem !important;
+      }
+      > .header-mark:hover::before {
+        content: "§" !important;
+        margin-right: .3125rem !important;
+      }
+    }
+  }
+}
+
+.regular {
+  .single-title, .single-subtitle, .post-meta {
+    text-align: center !important;
+  }
+}
+
+/* Copyright (c) 2023 Harry Kurn */
+
+@media only screen and (min-width: 681px) {
+
+  /* _core/_layout.scss */
+
+  .wrapper {
+    [theme=dark] & {
+      background-image: url("/lib/images/kaendahan.pet.webp") !important;
+    }
+    background-image: url("/lib/images/kaendahan.pad.webp") !important;
+  }
+
+  /* _page/_index.scss */
+
+  .page {
+    margin-top: calc(var(--header-height)*1.75) !important;
+    margin-bottom: calc(var(--header-height)*.875) !important;
+    [data-header-desktop] & {
+      padding: 1.5rem 2rem !important;
+    }
+  }
+
+  /* _page/_404.scss */
+
+  #content-404 {
+    margin: auto !important;
+  }
+
+  /* _page/_archive.scss
+     _page/_single.scss */
+
+  .archive, .single {
+    .single-title {
+      margin: 0 0 .5rem !important;
+    }
+  }
+
+  /* _partial/_single/_footer.scss */
+
+  .post-nav {
+    padding-bottom: 1.77rem !important;
+  }
+
+  /* _partial/_single/_toc.scss */
+
+  .toc {
+    .toc-content {
+      font-size: calc(var(--toc-content-font-size)*.6875) !important;
+      line-height: calc(var(--global-line-height)*.6875) !important;
+      ul {
+        a:first-child::before {
+          margin-right: .375rem !important;
+        }
+      }
+    }
+  }
+
+  #toc-auto {
+    width: initial !important;
+    right: 20px !important;
+  }
+
+  /* _core/_footer.scss
+     _page/_index.scss
+     _partial/_single/_toc.scss */
+
+  footer, .page, #toc-auto {
+    [theme=dark] & {
+      background-color: $global-background-color-dark !important;
+    }
+    background-color: $global-background-color !important;
+  }
+
+}

@@ -1,0 +1,283 @@
+diff --git themes/LoveIt/assets/css/_core/_footer.scss themes/LoveIt/assets/css/_core/_footer.scss
+index 21a89e8..0fdd02e 100644
+--- themes/LoveIt/assets/css/_core/_footer.scss
++++ themes/LoveIt/assets/css/_core/_footer.scss
+@@ -1,9 +1,9 @@
+ footer {
+-  height: 2rem;
++  height: initial;
+   width: 100%;
+   text-align: center;
+   line-height: 1.25rem;
+-  padding: 1rem 0;
++  padding: .76rem 0;
+ 
+   .footer-container {
+     font-size: .875rem;
+diff --git themes/LoveIt/assets/css/_core/_header.scss themes/LoveIt/assets/css/_core/_header.scss
+index b17aa94..c4cf016 100644
+--- themes/LoveIt/assets/css/_core/_header.scss
++++ themes/LoveIt/assets/css/_core/_header.scss
+@@ -71,7 +71,7 @@ header {
+     box-sizing: border-box;
+     height: 2.5rem;
+     width: 2.5rem;
+-    @include border-radius(.5rem);
++    @include border-radius(1.25rem);
+     border: none;
+     outline: none;
+     background-color: $header-background-color;
+@@ -109,7 +109,7 @@ header {
+     input {
+       color: $global-font-color;
+       background-color: $search-background-color;
+-      padding: 0 2rem 0 2rem;
++      padding: 0 2.8rem 0 2.3rem;
+     }
+ 
+     [theme=dark] & {
+@@ -186,7 +186,7 @@ header {
+         }
+ 
+         &.search {
+-          margin: 0 -.5rem 0 0;
++          margin: 0 -.25rem 0 0;
+         }
+       }
+ 
+@@ -449,6 +449,7 @@ header {
+     }
+ 
+     .search-footer {
++      display: none;
+       padding: .5rem 1rem;
+       float: right;
+       font-size: .8rem;
+diff --git themes/LoveIt/assets/css/_core/_media.scss themes/LoveIt/assets/css/_core/_media.scss
+index f90315d..5ce05f7 100644
+--- themes/LoveIt/assets/css/_core/_media.scss
++++ themes/LoveIt/assets/css/_core/_media.scss
+@@ -36,6 +36,82 @@
+   }
+ }
+ 
++/* Copyright (c) 2023 Harry Kurn */
++
++@media only screen and (min-width: 681px) {
++
++  /* _core/_layout.scss */
++
++  .wrapper {
++    [theme=dark] & {
++      background-image: url("/lib/images/kaendahan.pet.webp");
++    }
++    background-image: url("/lib/images/kaendahan.pad.webp");
++  }
++
++  /* _page/_index.scss */
++
++  .page {
++    margin-top: calc(var(--header-height)*1.75);
++    margin-bottom: calc(var(--header-height)*.875);
++    [data-header-desktop] & {
++      padding: 1.5rem 2rem;
++    }
++  }
++
++  /* _page/_404.scss */
++
++  #content-404 {
++    margin: auto;
++  }
++
++  /* _page/_archive.scss
++     _page/_single.scss */
++
++  .archive, .single {
++    .single-title {
++      margin: 0 0 .5rem;
++    }
++  }
++
++  /* _partial/_single/_footer.scss */
++
++  .post-nav {
++    padding-bottom: 1.77rem;
++  }
++
++  /* _partial/_single/_toc.scss */
++
++  .toc {
++    .toc-content {
++      font-size: calc(var(--toc-content-font-size)*.6875);
++      line-height: calc(var(--global-line-height)*.6875);
++      ul {
++        a:first-child::before {
++          margin-right: .375rem;
++        }
++      }
++    }
++  }
++
++  #toc-auto {
++    width: initial;
++    right: 20px;
++  }
++
++  /* _core/_footer.scss
++     _page/_index.scss
++     _partial/_single/_toc.scss */
++
++  footer, .page, #toc-auto {
++    [theme=dark] & {
++      background-color: $global-background-color-dark;
++    }
++    background-color: $global-background-color;
++  }
++
++}
++
+ @media only screen and (max-width: 680px) {
+   #header-desktop {
+     display: none;
+diff --git themes/LoveIt/assets/css/_page/_home.scss themes/LoveIt/assets/css/_page/_home.scss
+index ae7988a..860809b 100644
+--- themes/LoveIt/assets/css/_page/_home.scss
++++ themes/LoveIt/assets/css/_page/_home.scss
+@@ -77,23 +77,33 @@
+   }
+ 
+   .summary {
+-    padding-top: 1rem;
+-    padding-bottom: .8rem;
++    padding: .8rem 0;
++    margin: 1rem 0;
+     color: $global-font-color;
++    border-top: 1px dashed $global-border-color;
+     border-bottom: 1px dashed $global-border-color;
++    background: repeating-linear-gradient(45deg, $header-background-color, transparent 17%);
+ 
+     [theme=dark] & {
+       color: $global-font-color-dark;
++      border-top: 1px dashed $global-border-color-dark;
+       border-bottom: 1px dashed $global-border-color-dark;
++      background: repeating-linear-gradient(45deg, $header-background-color-dark, transparent 17%);
+     }
+ 
+     .featured-image-preview {
++      opacity: .9;
+       width: 100%;
+       padding: 30% 0 0;
+       position: relative;
+-      margin: 0.6rem auto;
++      margin: -.8rem auto .6rem;
++      border-bottom: 1px dashed $global-border-color;
+       @include transition(transform 0.4s ease);
+ 
++      [theme=dark] & {
++        border-bottom: 1px dashed $global-border-color-dark;
++      }
++
+       img {
+         position: absolute;
+         width: 100%;
+@@ -151,7 +161,7 @@
+         font-size: 1.125rem;
+       }
+ 
+-      @include link(false, true);
++      @include link(true, true);
+ 
+       b, strong {
+         color: $global-font-secondary-color;
+diff --git themes/LoveIt/assets/css/_page/_single.scss themes/LoveIt/assets/css/_page/_single.scss
+index 20c1579..7723a7c 100644
+--- themes/LoveIt/assets/css/_page/_single.scss
++++ themes/LoveIt/assets/css/_page/_single.scss
+@@ -9,8 +9,9 @@
+   }
+ 
+   .single-subtitle {
+-    margin: .5rem 0;
+-    font-size: 1.2rem;
++    margin: .9rem 0 1rem;
++    font-size: 1.1rem;
++    font-style: initial;
+     font-weight: normal;
+     line-height: 100%;
+   }
+@@ -27,11 +28,7 @@
+       color: $global-font-secondary-color-dark;
+     }
+ 
+-    @include link(false, true);
+-
+-    .author {
+-      font-size: 1.05rem;
+-    }
++    @include link(true, true);
+   }
+ 
+   .featured-image {
+@@ -102,18 +99,20 @@
+     > h5,
+     > h6 {
+       > .header-mark::before {
+-        content: "|";
+-        margin-right: .3125rem;
++        content: "";
++        padding-left: 2rem;
++        margin-left: -2rem;
++        margin-right: -.1rem;
+         color: $single-link-color;
+ 
+         [theme=dark] & {
+           color: $single-link-color-dark;
+         }
+       }
+-    }
+-
+-    > h2 > .header-mark::before {
+-      content: "#";
++      > .header-mark:hover::before {
++        content: "§";
++        margin-right: .3125rem;
++      }
+     }
+ 
+     p {
+@@ -322,6 +321,12 @@
+   @import "../_partial/_single/comment";
+ }
+ 
++.regular {
++  .single-title, .single-subtitle, .post-meta {
++    text-align: center;
++  }
++}
++
+ .typeit {
+   .highlight {
+     padding: .375rem;
+diff --git themes/LoveIt/assets/css/_variables.scss themes/LoveIt/assets/css/_variables.scss
+index 915753d..36fcdee 100644
+--- themes/LoveIt/assets/css/_variables.scss
++++ themes/LoveIt/assets/css/_variables.scss
+@@ -32,7 +32,7 @@ $global-link-color: #161209 !default;
+ $global-link-color-dark: #a9a9b3 !default;
+ 
+ // Color of the hover link
+-$global-link-hover-color: #2d96bd !default;
++$global-link-hover-color: #000 !default;
+ $global-link-hover-color-dark: #fff !default;
+ 
+ // Color of the border
+@@ -103,7 +103,7 @@ $blockquote-color-dark: #59c5ec !default;
+ 
+ // ========== Pagination ========== //
+ // Color of the link in pagination
+-$pagination-link-color: #2d96bd !default;
++$pagination-link-color: #161209 !default;
+ $pagination-link-color-dark: #a9a9b3 !default;
+ 
+ // Color of the hover link in pagination
