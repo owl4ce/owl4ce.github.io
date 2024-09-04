@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-08-31T00:00:00+07:00
+lastmod: 2024-09-05T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -740,5 +740,33 @@ seo:
 
 - **How The Quran Generates Cosmic Consciousness** | 
 [1](https://www.islamicity.org/72073/the-quran-generates-cosmic-consciousness/)
+
+---
+
+## 2024-09-01
+
+- **The philosophies of Minecraft- and the key to understanding it** | 
+[1](https://aashkhiani.medium.com/the-philosophies-of-minecraft-and-the-key-to-understanding-it-9b3e4e7d54c8)
+
+---
+
+## 2024-09-02
+
+- **Quantum Consciousness Debate: Does the Wave Function Actually Exist?** | 
+[1](https://youtu.be/0nOtLj8UYCw)
+
+---
+
+## 2024-09-03
+
+- **What happens to consciousness when clocks stop?** | 
+[1](https://youtu.be/pR0etE_OfMY)
+
+---
+
+## 2024-09-04
+
+- **Groundbreaking Consciousness Theory By Microprocessor Inventor** | 
+[1](https://youtu.be/ssE4h70qKWk)
 
 ---
