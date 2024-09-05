@@ -770,3 +770,13 @@ seo:
 [1](https://youtu.be/ssE4h70qKWk)
 
 ---
+
+## 2024-09-05
+
+- **Why to cooperate is better than to compete: brain and personality components** | 
+[1](https://doi.org/10.1186%2Fs12868-017-0386-8)
+
+- **An excess of empathy can be bad for your mental health** | 
+[1](https://theconversation.com/an-excess-of-empathy-can-be-bad-for-your-mental-health-178677)
+
+---
