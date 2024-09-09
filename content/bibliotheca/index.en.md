@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-05T00:00:00+07:00
+lastmod: 2024-09-09T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -778,5 +778,38 @@ seo:
 
 - **An excess of empathy can be bad for your mental health** | 
 [1](https://theconversation.com/an-excess-of-empathy-can-be-bad-for-your-mental-health-178677)
+
+---
+
+## 2024-09-06
+
+- **Bernard Carr, cosmologist and friend of Hawking, on consciousness and parapsychology** | 
+[1](https://youtu.be/weKSf000ENk)
+
+---
+
+## 2024-09-07
+
+- **Determinism** | 
+[1](https://www.informationphilosopher.com/freedom/determinism.html)
+
+- **Pre-Determinism** | 
+[1](https://www.informationphilosopher.com/freedom/pre-determinism.html)
+
+- **Indeterminism** | 
+[1](https://www.informationphilosopher.com/freedom/indeterminism.html)
+
+- **Difference Between Coherence and Consistency** | 
+[1](https://www.differencebetween.com/difference-between-coherence-and-vs-consistency/)
+
+---
+
+## 2024-09-08
+
+- **DMT Models the Near-Death Experience** | 
+[1](https://doi.org/10.3389/fpsyg.2018.01424)
+
+- **Speaking in cockatoos** | 
+[1](https://cockatoo-info.com/behavior/speech-talking/)
 
 ---
