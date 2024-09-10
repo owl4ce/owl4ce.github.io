@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-09T00:00:00+07:00
+lastmod: 2024-09-10T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -811,5 +811,28 @@ seo:
 
 - **Speaking in cockatoos** | 
 [1](https://cockatoo-info.com/behavior/speech-talking/)
+
+- **Want to Understand Israel-Palestine? Consume Noam Chomsky, Not Corporate Media** | 
+[1](https://www.commondreams.org/opinion/want-to-understand-israel-palestine-consume-noam-chomsky-not-corporate-media)
+
+- **Q&A: Noam Chomsky on Palestine, Israel and the state of the world** | 
+[1](https://www.aljazeera.com/features/2023/4/9/qa-noam-chomsky-on-palestine-israel-and-the-state-of-the-world) | 
+[2](https://chomsky.info/20230409-2/)
+
+- **The quantum mechanics of Israeli totalitarianism** | 
+[1](https://www.aljazeera.com/opinions/2015/5/7/the-quantum-mechanics-of-israeli-totalitarianism)
+
+---
+
+## 2024-09-10
+
+- **Human Consciousness and Quantum Physics: Why You Should Care** | 
+[1](https://fsj.racc.edu/2019/05/06/human-consciousness-and-quantum-physics-why-you-should-care/)
+
+- **The Observer Effect: Seeing Is Changing** | 
+[1](https://fs.blog/observer-effect/)
+
+- **Is photosynthesis quantum-ish?** | 
+[1](https://physicsworld.com/a/is-photosynthesis-quantum-ish/)
 
 ---
