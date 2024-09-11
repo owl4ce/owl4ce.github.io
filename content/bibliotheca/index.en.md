@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-10T00:00:00+07:00
+lastmod: 2024-09-12T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -802,6 +802,9 @@ seo:
 - **Difference Between Coherence and Consistency** | 
 [1](https://www.differencebetween.com/difference-between-coherence-and-vs-consistency/)
 
+- **An Introduction to Semantics** | 
+[1](https://www.thoughtco.com/semantics-linguistics-1692080)
+
 ---
 
 ## 2024-09-08
@@ -834,5 +837,15 @@ seo:
 
 - **Is photosynthesis quantum-ish?** | 
 [1](https://physicsworld.com/a/is-photosynthesis-quantum-ish/)
+
+---
+
+## 2024-09-12
+
+- **Emotion** | 
+[1](https://plato.stanford.edu/Entries/emotion/#ConcRema)
+
+- **Theories of Emotion** | 
+[1](https://iep.utm.edu/theories-of-emotion/)
 
 ---
