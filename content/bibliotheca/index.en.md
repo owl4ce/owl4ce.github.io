@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-12T00:00:00+07:00
+lastmod: 2024-09-13T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -840,6 +840,13 @@ seo:
 
 ---
 
+## 2024-09-11
+
+- **Can We Be Rational AND Spiritual?** | 
+[1](https://youtu.be/TxtXxJtPmUQ)
+
+---
+
 ## 2024-09-12
 
 - **Emotion** | 
@@ -847,5 +854,12 @@ seo:
 
 - **Theories of Emotion** | 
 [1](https://iep.utm.edu/theories-of-emotion/)
+
+---
+
+## 2024-09-13
+
+- **Qualia** | 
+[1](https://plato.stanford.edu/entries/qualia/#Creat)
 
 ---
