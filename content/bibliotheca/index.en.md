@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-13T00:00:00+07:00
+lastmod: 2024-09-15T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -861,5 +861,19 @@ seo:
 
 - **Qualia** | 
 [1](https://plato.stanford.edu/entries/qualia/#Creat)
+
+---
+
+## 2024-09-14
+
+- **Deep Dive Into The Philosophy of Psychedelics** | 
+[1](https://youtu.be/eQmFGTko7yI)
+
+---
+
+## 2024-09-15
+
+- **What Carl Jung's Most Important Book Tells Us** | 
+[1](https://youtu.be/U6sTyzMS34g)
 
 ---
