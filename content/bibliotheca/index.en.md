@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-15T00:00:00+07:00
+lastmod: 2024-09-17T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -875,5 +875,12 @@ seo:
 
 - **What Carl Jung's Most Important Book Tells Us** | 
 [1](https://youtu.be/U6sTyzMS34g)
+
+---
+
+## 2024-09-16
+
+- **Critical Skills for Humanity: Existential Intelligence** | 
+[1](https://technophilosophy.substack.com/p/beyond-algorithms-the-case-for-cultivating)
 
 ---
