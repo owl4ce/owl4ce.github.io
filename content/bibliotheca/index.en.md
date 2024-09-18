@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-17T00:00:00+07:00
+lastmod: 2024-09-19T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -882,5 +882,35 @@ seo:
 
 - **Critical Skills for Humanity: Existential Intelligence** | 
 [1](https://technophilosophy.substack.com/p/beyond-algorithms-the-case-for-cultivating)
+
+---
+
+## 2024-09-17
+
+- **What If Science Took The Paranormal Seriously?** | 
+[1](https://youtu.be/1vMPISrMyvQ)
+
+---
+
+## 2024-09-18
+
+- **_Kisah di Balik Kabbalah_** | 
+[1](https://alhikmah.ac.id/kisah-di-balik-kabbalah/)
+
+- **Kabbalah** | 
+[1](https://www.worldhistory.org/Kabbalah/)
+
+- **What Is Kabbalah?** | 
+[1](https://www.equip.org/articles/what-is-kabbalah/)
+
+- **Kabbalah & Physics: The Amazing Parallels!** | 
+[1](https://youtu.be/oFa5Y3KsTnU)
+
+---
+
+## 2024-09-19
+
+- **Philosophy and Kabbalah: Elijah Benamozegh and the Reconciliation of Western Thought and Jewish Esotericism** | 
+[1](https://www.goodreads.com/book/show/7440233-philosophy-and-kabbalah)
 
 ---
