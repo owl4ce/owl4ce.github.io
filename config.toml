@@ -9,7 +9,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "Cras."
+title = "Cras"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -51,9 +51,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = ""
+  name = "VIOLET HORTENSIA"
   email = ""
-  link = "/etiquette/"
+  link = "mailto:hortensv%40crdinusc.eu.org?subject=Critique%20of%20..."
 
 # Menu config
 # 菜单配置
@@ -90,7 +90,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "Cras."
+  title = "Cras"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "..."
@@ -118,7 +118,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<b style='font-weight:normal'>𝕮𝖗𝖆𝖘<span style='color:#fa74b2'>.</span></b>"
+      pre = "<b style='font-weight:normal'>𝖓𝖚𝖒𝖖𝖚𝖆𝖒 𝖘𝖈𝖎𝖗𝖊<span style='color:#fa74b2'>.</span></b>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -141,7 +141,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     copyright = true
     # whether to show the author
     # 是否显示作者
-    author = false
+    author = true
     # site creation time
     # 网站创立年份
     since = 2023
@@ -183,7 +183,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "Cras."
+    title = "Cras"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false

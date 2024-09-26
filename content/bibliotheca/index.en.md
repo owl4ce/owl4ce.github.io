@@ -6,7 +6,7 @@ lastmod: 2024-09-19T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
-description: "Love the harmony, as thou lovedst thyself."
+description: "Love the tranquility, as thou lovedst thyself."
 license: ""
 images: []
 
