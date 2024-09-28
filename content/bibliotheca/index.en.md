@@ -55,21 +55,25 @@ seo:
 
 ---
 
-## 2023-06-16
+## <u>2023</u>
+
+### <u style="text-decoration-style:dotted">2023-06</u>
+
+#### 2023-06-16
 
 - **The meaning of amour: English translation and more** | 
 [1](https://www.ithinklanguages.com/the-meaning-of-amour/)
 
 ---
 
-## 2023-06-23
+#### 2023-06-23
 
 - **Science of the Heart** | 
 [1](https://www.heartmath.org/research/science-of-the-heart/)
 
 ---
 
-## 2023-06-29
+#### 2023-06-29
 
 - **Archaic Verb Conjugation in English** | 
 [1](https://langeek.co/en/grammar/course/683/archaic-verb-conjugation)
@@ -79,14 +83,16 @@ seo:
 
 ---
 
-## 2023-07-06
+### <u style="text-decoration-style:dotted">2023-07</u>
+
+#### 2023-07-06
 
 - **Why Nature Vs. Nurture is a False Dichotomy** | 
 [1](https://developmentalpsychiatry.com/2021/08/03/why-nature-vs-nurture-is-a-false-dichotomy/)
 
 ---
 
-## 2023-07-10
+#### 2023-07-10
 
 - **Did he break your heart or your liver? A contrastive study on metaphorical concepts from the source domain ORGAN in English and in Indonesian** | 
 [~~1~~](https://doi.org/10.1515/9783110199109.2.45) | 
@@ -95,7 +101,7 @@ seo:
 
 ---
 
-## 2023-07-13
+#### 2023-07-13
 
 - **The Significance of the Heart-Brain Connection** | 
 [1](https://www.psychologytoday.com/intl/blog/explorations-the-mind/202202/the-significance-the-heart-brain-connection)
@@ -105,14 +111,14 @@ seo:
 
 ---
 
-## 2023-07-14
+#### 2023-07-14
 
 - **The Microbiota-Gut-Brain Axis** | 
 [1](https://doi.org/10.1152/physrev.00018.2018)
 
 ---
 
-## 2023-07-15
+#### 2023-07-15
 
 - **Thou shalt not commit logical fallacies** | 
 [1](https://yourlogicalfallacyis.com)
@@ -122,7 +128,7 @@ seo:
 
 ---
 
-## 2023-07-16
+#### 2023-07-16
 
 - **24 Cognitive Biases stuffing up your thinking** | 
 [1](https://yourbias.is)
@@ -135,7 +141,7 @@ seo:
 
 ---
 
-## 2023-07-17
+#### 2023-07-17
 
 - **Sufism and mental health** | 
 [1](https://doi.org/10.4103%2F0019-5545.105535)
@@ -151,7 +157,7 @@ seo:
 
 ---
 
-## 2023-07-21
+#### 2023-07-21
 
 - **Nothingness** | 
 [1](https://plato.stanford.edu/entries/nothingness/#AniCogAbs)
@@ -161,7 +167,7 @@ seo:
 
 ---
 
-## 2023-07-23
+#### 2023-07-23
 
 - **Trinity** | 
 [1](https://plato.stanford.edu/entries/trinity/#ComNar)
@@ -171,21 +177,21 @@ seo:
 
 ---
 
-## 2023-07-24
+#### 2023-07-24
 
 - **Perceived time expands and contracts within each heartbeat** | 
 [1](https://doi.org/10.1016/j.cub.2023.02.034)
 
 ---
 
-## 2023-07-30
+#### 2023-07-30
 
 - **Difference Between “Comprehend” and “Understand”** | 
 [1](https://grammarhow.com/difference-between-comprehend-and-understand/)
 
 ---
 
-## 2023-07-31
+#### 2023-07-31
 
 - **Medina Charter of Prophet Muhammad and Pluralism** | 
 [1](https://www.islamicity.org/5685/medina-charter-of-prophet-muhammad-and-pluralism/)
@@ -195,7 +201,9 @@ seo:
 
 ---
 
-## 2023-08-03
+### <u style="text-decoration-style:dotted">2023-08</u>
+
+#### 2023-08-03
 
 - **How Byzantine Architecture Influenced the World** | 
 [1](https://greekreporter.com/2022/12/06/byzantine-architecture-influenced-world/)
@@ -208,7 +216,7 @@ seo:
 
 ---
 
-## 2023-08-06
+#### 2023-08-06
 
 - **Brain Anatomy and How the Brain Works** | 
 [1](https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain)
@@ -224,7 +232,7 @@ seo:
 
 ---
 
-## 2023-08-08
+#### 2023-08-08
 
 - **Why Decluttering Your Room Can Lead to Increased Brain Power** | 
 [1](https://www.psychologytoday.com/intl/blog/social-instincts/202308/why-decluttering-your-room-can-lead-to-increased-brain-power)
@@ -246,7 +254,7 @@ seo:
 
 ---
 
-## 2023-08-11
+#### 2023-08-11
 
 - **A Dramatic Turn of Events** | 
 [1](https://dreamtheater.net/discography/a-dramatic-turn-of-events/)
@@ -259,14 +267,14 @@ seo:
 
 ---
 
-## 2023-08-16
+#### 2023-08-16
 
 - **Identification of pre-fertilization reproductive barriers and the underlying cytological mechanism in crosses among three petal-types of Jasminum sambac and their relevance to phylogenetic relationships** | 
 [1](https://doi.org/10.1371/journal.pone.0176026)
 
 ---
 
-## 2023-08-30
+#### 2023-08-30
 
 - **Nature: Thinking vs. Feeling** | 
 [1](https://www.16personalities.com/articles/nature-thinking-vs-feeling)
@@ -276,14 +284,16 @@ seo:
 
 ---
 
-## 2023-08-31
+#### 2023-08-31
 
 - **_Menjaga Lisan Agar Selalu Berbicara Baik_** | 
 [1](https://almanhaj.or.id/3197-menjaga-lisan-agar-selalu-berbicara-baik.html)
 
 ---
 
-## 2023-09-03
+### <u style="text-decoration-style:dotted">2023-09</u>
+
+#### 2023-09-03
 
 - **_FILSAFAT ISLAM: Filosof dan Filsafatnya_** | 
 `978-979-769-719-8`
@@ -299,14 +309,14 @@ seo:
 
 ---
 
-## 2023-09-15
+#### 2023-09-15
 
 - **_Sebuah "Tren Baru" Musik Campursari_** | 
 [1](https://www.goodnewsfromindonesia.id/2017/01/22/sebuah-tren-baru-musik-campursari)
 
 ---
 
-## 2023-09-17
+#### 2023-09-17
 
 - **Nurturing Holistic Individuals: The Salient Attributes of Ulul Albab** | 
 [1](https://www.islamicity.org/81237/nurturing-holistic-individuals-the-salient-attributes-of-ulul-albab/)
@@ -316,7 +326,7 @@ seo:
 
 ---
 
-## 2023-09-20
+#### 2023-09-20
 
 - **_7 Cara Menghilangkan Kantuk saat Bekerja_** | 
 [1](https://www.halodoc.com/artikel/7-cara-menghilangkan-kantuk-saat-bekerja)
@@ -330,14 +340,14 @@ seo:
 
 ---
 
-## 2023-09-22
+#### 2023-09-22
 
 - **_Manusia Memanusiakan Manusia_** | 
 [1](https://www.readers.id/read/manusia-memanusiakan-manusia/)
 
 ---
 
-## 2023-09-24
+#### 2023-09-24
 
 - **Energy: Intuitive vs. Observant** | 
 [1](https://www.16personalities.com/articles/energy-intuitive-vs-observant)
@@ -362,7 +372,9 @@ seo:
 
 ---
 
-## 2023-10-22
+### <u style="text-decoration-style:dotted">2023-10</u>
+
+#### 2023-10-22
 
 - **_“Cinta Dalam Diam”_** | 
 [1](https://baitulmuslim.com/artikel-motivasi/cinta-dalam-diam)
@@ -372,21 +384,23 @@ seo:
 
 ---
 
-## 2023-10-24
+#### 2023-10-24
 
 - **_Bagaimana Menyikapi Penguasa Dzalim_** | 
 [1](https://alhikmah.ac.id/bagaimana-menyikapi-penguasa-dzalim/)
 
 ---
 
-## 2023-10-31
+#### 2023-10-31
 
 - **_Filsafat Cinta: Pandangan Erich Fromm dan Sokrates Mengenai Cinta_** | 
 [1](https://lsfdiscourse.org/filsafat-cinta-pandangan-erich-fromm-dan-sokrates-mengenai-cinta/)
 
 ---
 
-## 2023-11-01
+### <u style="text-decoration-style:dotted">2023-11</u>
+
+#### 2023-11-01
 
 - **Two greatest commandments (Mark 12:28-34)** | 
 [1](https://www.jw.org/en/library/bible/study-bible/books/mark/12/#v41012028-v41012034)
@@ -400,7 +414,11 @@ seo:
 
 ---
 
-## 2024-02-03
+## <u>2024</u>
+
+### <u style="text-decoration-style:dotted">2024-02</u>
+
+#### 2024-02-03
 
 - **_Tafsir Al-Qur'an Tematik: Taufiq, Hidayah dan Inayah_** | 
 [1](https://www.dialogilmu.com/2017/11/tafsir-al-quran-tematik-taufiq-hidayah-inayah.html)
@@ -410,21 +428,21 @@ seo:
 
 ---
 
-## 2024-02-07
+#### 2024-02-07
 
 - **_Epistemologi Muhammad Iqbal: Relasi antara Akal, Panca Indra, dan Intuisi_** | 
 [1](https://lsfdiscourse.org/epistemologi-muhammad-iqbal-relasi-antara-akal-panca-indra-dan-intuisi/)
 
 ---
 
-## 2024-02-17
+#### 2024-02-17
 
 - **_Mencintaimu dalam Diam karena Allah_** | 
 [1](https://www.islampos.com/mencintaimu-dalam-diam-karena-allah-111697/)
 
 ---
 
-## 2024-02-18
+#### 2024-02-18
 
 - **_FILSAFAT PENDIDIKAN ISLAMI: Integrasi Jasmani, Rohani, dan Kalbu; Memanusiakan Manusia_** | 
 `978-979-692-592-3`
@@ -440,7 +458,9 @@ seo:
 
 ---
 
-## 2024-03-20
+### <u style="text-decoration-style:dotted">2024-03</u>
+
+#### 2024-03-20
 
 - **Do not love the world (1 John 2:15-17)** | 
 [1](https://www.jw.org/en/library/bible/study-bible/books/1-john/2/#v62002015)
@@ -451,21 +471,21 @@ seo:
 
 ---
 
-## 2024-03-25
+#### 2024-03-25
 
 - **The Language of Thought Hypothesis** | 
 [1](https://plato.stanford.edu/entries/language-thought/#IndiMentExpr)
 
 ---
 
-## 2024-03-27
+#### 2024-03-27
 
 - **_Hannah Arendt: Menimbang Kembali Apa yang Sedang Kita Lakukan_** | 
 [1](https://lsfdiscourse.org/hannah-arendt-menimbang-kembali-apa-yang-sedang-kita-lakukan/)
 
 ---
 
-## 2024-03-29
+#### 2024-03-29
 
 - **Al-Qur'an 20:112** | 
 [1](https://quran.com/20?startingVerse=112) | 
@@ -473,21 +493,23 @@ seo:
 
 ---
 
-## 2024-03-31
+#### 2024-03-31
 
 - **_Belief System, Pembentuk Karakter Utama Manusia_** | 
 [1](https://www.anetry.net/2022/08/belief-system-pembentuk-karakter-utama.html)
 
 ---
 
-## 2024-04-02
+### <u style="text-decoration-style:dotted">2024-04</u>
+
+#### 2024-04-02
 
 - **_Ada seksisme dalam bahasa Indonesia, bagaimana kita harus menanganinya?_** | 
 [1](https://theconversation.com/ada-seksisme-dalam-bahasa-indonesia-bagaimana-kita-harus-menanganinya-133625)
 
 ---
 
-## 2024-04-10
+#### 2024-04-10
 
 - **How a blind artist is challenging our understanding of colour** | 
 [1](https://theconversation.com/how-a-blind-artist-is-challenging-our-understanding-of-colour-93872)
@@ -497,7 +519,9 @@ seo:
 
 ---
 
-## 2024-05-13
+### <u style="text-decoration-style:dotted">2024-05</u>
+
+#### 2024-05-13
 
 - **17 signs you’re a deeply intuitive person, according to psychology** | 
 [1](https://hackspirit.com/signs-youre-a-deeply-intuitive-person-according-to-psychology/)
@@ -507,21 +531,23 @@ seo:
 
 ---
 
-## 2024-05-14
+#### 2024-05-14
 
 - **_PUASA MEDIA SOSIAL: SEBUAH KONTEMPLASI MANUSIA MODERN DALAM UPAYA TRANSFORMASI SOSIAL_** | 
 [1](https://immfisipol.umy.ac.id/puasa-media-sosial-sebuah-kontemplasi-manusia-modern-dalam-upaya-transformasi-sosial/)
 
 ---
 
-## 2024-05-19
+#### 2024-05-19
 
 - **_MEMPERBANYAK TAFAKKUR_** | 
 [1](https://www.metrouniv.ac.id/artikel/memperbanyak-tafakkur/)
 
 ---
 
-## 2024-07-01
+### <u style="text-decoration-style:dotted">2024-07</u>
+
+#### 2024-07-01
 
 - **Al-Qur'an 63:9-11** | 
 [1](https://quran.com/63?startingVerse=9) | 
@@ -529,21 +555,21 @@ seo:
 
 ---
 
-## 2024-07-02
+#### 2024-07-02
 
 - **Are Psychopaths Unfairly Stigmatized?** | 
 [1](https://www.psychologytoday.com/intl/blog/unique-everybody-else/201809/are-psychopaths-unfairly-stigmatized)
 
 ---
 
-## 2024-07-07
+#### 2024-07-07
 
 - **Heart-Brain Health: A Two-Way Street** | 
 [1](https://magazine.hms.harvard.edu/articles/heart-brain-health-two-way-street)
 
 ---
 
-## 2024-07-09
+#### 2024-07-09
 
 - **Heart disease and depression: A two-way relationship** | 
 [1](https://www.nhlbi.nih.gov/news/2017/heart-disease-and-depression-two-way-relationship)
@@ -553,7 +579,7 @@ seo:
 
 ---
 
-## 2024-07-11
+#### 2024-07-11
 
 - **_Apa beda antara_ interfere _dan_ intervene<i>?</i>** | 
 [1](https://pbs.twimg.com/media/D0LCpWJXQAEARwi?format=webp)
@@ -563,14 +589,14 @@ seo:
 
 ---
 
-## 2024-07-14
+#### 2024-07-14
 
 - **Material Constitution** | 
 [1](https://plato.stanford.edu/entries/material-constitution/#CoiObj)
 
 ---
 
-## 2024-07-21
+#### 2024-07-21
 
 - **If you recognize these signs, you’re a better quality person than you think** | 
 [1](https://hackspirit.com/if-you-recognize-these-signs-youre-a-better-quality-person-than-you-think/)
@@ -580,21 +606,23 @@ seo:
 
 ---
 
-## 2024-07-26
+#### 2024-07-26
 
 - **_Menggugat Rasionalitas, Mengakali Intuisi_** | 
 [1](https://crcs.ugm.ac.id/menggugat-rasionalitas-mengakali-intuisi/)
 
 ---
 
-## 2024-07-29
+#### 2024-07-29
 
 - **Humor** | 
 [1](https://iep.utm.edu/humor/)
 
 ---
 
-## 2024-08-01
+### <u style="text-decoration-style:dotted">2024-08</u>
+
+#### 2024-08-01
 
 - **Social Contract Theory** | 
 [1](https://iep.utm.edu/soc-cont/)
@@ -604,14 +632,14 @@ seo:
 
 ---
 
-## 2024-08-02
+#### 2024-08-02
 
 - **Six Degrees of Inner Turbulence** | 
 [1](https://dreamtheater.net/discography/six-degrees-of-inner-turbulence/)
 
 ---
 
-## 2024-08-04
+#### 2024-08-04
 
 - **Al-Qur'an 49:1-18** | 
 [1](https://quran.com/49?startingVerse=1) | 
@@ -619,21 +647,21 @@ seo:
 
 ---
 
-## 2024-08-06
+#### 2024-08-06
 
 - **Is Humility a Weakness or a Strength?** | 
 [1](https://www.jw.org/en/library/magazines/g200703/Is-Humility-a-Weakness-or-a-Strength/)
 
 ---
 
-## 2024-08-07
+#### 2024-08-07
 
 - **Time** | 
 [1](https://iep.utm.edu/time/)
 
 ---
 
-## 2024-08-11
+#### 2024-08-11
 
 - **WhatsApp addiction and borderline personality disorder: A new therapeutic challenge** | 
 [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919976/)
@@ -643,7 +671,7 @@ seo:
 
 ---
 
-## 2024-08-13
+#### 2024-08-13
 
 - **Is the “God Spot” Rooted Far Below Our Brain’s Thinking Cap?** | 
 [1](https://www.psychologytoday.com/intl/blog/the-athletes-way/202107/is-the-god-spot-rooted-far-below-our-brain-s-thinking-cap)
@@ -669,7 +697,7 @@ seo:
 
 ---
 
-## 2024-08-14
+#### 2024-08-14
 
 - **The World Is Not What You See** | 
 [1](https://mana.net/bernardo-kastrup/)
@@ -679,7 +707,7 @@ seo:
 
 ---
 
-## 2024-08-21
+#### 2024-08-21
 
 - **Experimental philosophy of memory** | 
 [1](https://doi.org/10.4025/actascihumansoc.v43i3.60875) | 
@@ -687,7 +715,7 @@ seo:
 
 ---
 
-## 2024-08-22
+#### 2024-08-22
 
 - **Epistemological Problems of Memory** | 
 [1](https://plato.stanford.edu/entries/memory-episprob/#JustBeyo)
@@ -697,7 +725,7 @@ seo:
 
 ---
 
-## 2024-08-27
+#### 2024-08-27
 
 - **Is Consciousness Part of the Fabric of the Universe?** | 
 [1](https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe1/)
@@ -707,7 +735,7 @@ seo:
 
 ---
 
-## 2024-08-29
+#### 2024-08-29
 
 - **Reductionism** | 
 [1](https://iep.utm.edu/red-ism/)
@@ -723,7 +751,7 @@ seo:
 
 ---
 
-## 2024-08-30
+#### 2024-08-30
 
 - **Is Everything Made of Matter or Consciousness?** | 
 [1](https://youtu.be/MQuMzocvmTQ)
@@ -733,7 +761,7 @@ seo:
 
 ---
 
-## 2024-08-31
+#### 2024-08-31
 
 - **Why does the Science of Consciousness Need a Muslim Theologian and a Sleep Specialist?** | 
 [1](https://thequran.love/2024/01/25/why-does-the-science-of-consciousness-need-a-muslim-theologian-and-a-sleep-specialist/)
@@ -743,35 +771,37 @@ seo:
 
 ---
 
-## 2024-09-01
+### <u style="text-decoration-style:dotted">2024-09</u>
+
+#### 2024-09-01
 
 - **The philosophies of Minecraft- and the key to understanding it** | 
 [1](https://aashkhiani.medium.com/the-philosophies-of-minecraft-and-the-key-to-understanding-it-9b3e4e7d54c8)
 
 ---
 
-## 2024-09-02
+#### 2024-09-02
 
 - **Quantum Consciousness Debate: Does the Wave Function Actually Exist?** | 
 [1](https://youtu.be/0nOtLj8UYCw)
 
 ---
 
-## 2024-09-03
+#### 2024-09-03
 
 - **What happens to consciousness when clocks stop?** | 
 [1](https://youtu.be/pR0etE_OfMY)
 
 ---
 
-## 2024-09-04
+#### 2024-09-04
 
 - **Groundbreaking Consciousness Theory By Microprocessor Inventor** | 
 [1](https://youtu.be/ssE4h70qKWk)
 
 ---
 
-## 2024-09-05
+#### 2024-09-05
 
 - **Why to cooperate is better than to compete: brain and personality components** | 
 [1](https://doi.org/10.1186%2Fs12868-017-0386-8)
@@ -781,14 +811,14 @@ seo:
 
 ---
 
-## 2024-09-06
+#### 2024-09-06
 
 - **Bernard Carr, cosmologist and friend of Hawking, on consciousness and parapsychology** | 
 [1](https://youtu.be/weKSf000ENk)
 
 ---
 
-## 2024-09-07
+#### 2024-09-07
 
 - **Determinism** | 
 [1](https://www.informationphilosopher.com/freedom/determinism.html)
@@ -807,7 +837,7 @@ seo:
 
 ---
 
-## 2024-09-08
+#### 2024-09-08
 
 - **DMT Models the Near-Death Experience** | 
 [1](https://doi.org/10.3389/fpsyg.2018.01424)
@@ -827,7 +857,7 @@ seo:
 
 ---
 
-## 2024-09-10
+#### 2024-09-10
 
 - **Human Consciousness and Quantum Physics: Why You Should Care** | 
 [1](https://fsj.racc.edu/2019/05/06/human-consciousness-and-quantum-physics-why-you-should-care/)
@@ -840,14 +870,14 @@ seo:
 
 ---
 
-## 2024-09-11
+#### 2024-09-11
 
 - **Can We Be Rational AND Spiritual?** | 
 [1](https://youtu.be/TxtXxJtPmUQ)
 
 ---
 
-## 2024-09-12
+#### 2024-09-12
 
 - **Emotion** | 
 [1](https://plato.stanford.edu/Entries/emotion/#ConcRema)
@@ -857,42 +887,42 @@ seo:
 
 ---
 
-## 2024-09-13
+#### 2024-09-13
 
 - **Qualia** | 
 [1](https://plato.stanford.edu/entries/qualia/#Creat)
 
 ---
 
-## 2024-09-14
+#### 2024-09-14
 
 - **Deep Dive Into The Philosophy of Psychedelics** | 
 [1](https://youtu.be/eQmFGTko7yI)
 
 ---
 
-## 2024-09-15
+#### 2024-09-15
 
 - **What Carl Jung's Most Important Book Tells Us** | 
 [1](https://youtu.be/U6sTyzMS34g)
 
 ---
 
-## 2024-09-16
+#### 2024-09-16
 
 - **Critical Skills for Humanity: Existential Intelligence** | 
 [1](https://technophilosophy.substack.com/p/beyond-algorithms-the-case-for-cultivating)
 
 ---
 
-## 2024-09-17
+#### 2024-09-17
 
 - **What If Science Took The Paranormal Seriously?** | 
 [1](https://youtu.be/1vMPISrMyvQ)
 
 ---
 
-## 2024-09-18
+#### 2024-09-18
 
 - **_Kisah di Balik Kabbalah_** | 
 [1](https://alhikmah.ac.id/kisah-di-balik-kabbalah/)
@@ -908,14 +938,14 @@ seo:
 
 ---
 
-## 2024-09-19
+#### 2024-09-19
 
 - **Philosophy and Kabbalah: Elijah Benamozegh and the Reconciliation of Western Thought and Jewish Esotericism** | 
 [1](https://www.goodreads.com/book/show/7440233-philosophy-and-kabbalah)
 
 ---
 
-## 2024-09-28
+#### 2024-09-28
 
 - **Why Dostoevsky Loved Humanity and Hated the Jews** | 
 [1](https://mosaicmagazine.com/essay/arts-culture/2023/12/why-dostoevsky-loved-humanity-and-hated-the-jews/)
