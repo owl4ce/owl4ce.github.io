@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-28T00:00:00+07:00
+lastmod: 2024-09-30T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -949,5 +949,12 @@ seo:
 
 - **Why Dostoevsky Loved Humanity and Hated the Jews** | 
 [1](https://mosaicmagazine.com/essay/arts-culture/2023/12/why-dostoevsky-loved-humanity-and-hated-the-jews/)
+
+---
+
+#### 2024-09-30
+
+- **Ethics of Artificial Intelligence** | 
+[1](https://iep.utm.edu/ethics-of-artificial-intelligence/)
 
 ---
