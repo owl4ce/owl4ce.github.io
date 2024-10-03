@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-09-30T00:00:00+07:00
+lastmod: 2024-10-03T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -956,5 +956,21 @@ seo:
 
 - **Ethics of Artificial Intelligence** | 
 [1](https://iep.utm.edu/ethics-of-artificial-intelligence/)
+
+---
+
+### <u style="text-decoration-style:dotted">2024-10</u>
+
+#### 2024-10-02
+
+- **Gnosticism** | 
+[1](https://www.worldhistory.org/Gnosticism/)
+
+---
+
+#### 2024-10-03
+
+- **Dreamachine, the psychedelic contraption hoping to blow British minds** | 
+[1](https://www.theguardian.com/artanddesign/2022/feb/16/dreamachine-unboxed-brion-gysin-jon-hopkins-assemble)
 
 ---
