@@ -3,10 +3,9 @@
 
 {{- if not .Site.Params.app.noFavicon -}}
     {{- with .Site.Params.app.svgFavicon -}}
-        <link rel="icon" href="{{ . }}">
+        <link rel="icon" type="image/svg+xml" href="{{ . }}">
     {{- else -}}
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
     {{- end -}}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     {{- with .Site.Params.app.iconColor -}}
