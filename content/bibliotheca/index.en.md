@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-10-03T00:00:00+07:00
+lastmod: 2024-10-13T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -53,11 +53,19 @@ seo:
 
 <!--more-->
 
+{{< script >}}
+const STYLE = document.createElement("style");
+STYLE.appendChild(document.createTextNode("\
+.content h2,.content h3{text-decoration:underline}\
+.content h3{text-decoration-style:dotted}\
+")), document.head.appendChild(STYLE);
+{{< /script >}}
+
 ---
 
-## <u>2023</u>
+## 2023
 
-### <u style="text-decoration-style:dotted">2023-06</u>
+### 2023-06
 
 #### 2023-06-16
 
@@ -83,7 +91,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2023-07</u>
+### 2023-07
 
 #### 2023-07-06
 
@@ -201,7 +209,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2023-08</u>
+### 2023-08
 
 #### 2023-08-03
 
@@ -291,7 +299,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2023-09</u>
+### 2023-09
 
 #### 2023-09-03
 
@@ -372,7 +380,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2023-10</u>
+### 2023-10
 
 #### 2023-10-22
 
@@ -398,7 +406,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2023-11</u>
+### 2023-11
 
 #### 2023-11-01
 
@@ -414,9 +422,9 @@ seo:
 
 ---
 
-## <u>2024</u>
+## 2024
 
-### <u style="text-decoration-style:dotted">2024-02</u>
+### 2024-02
 
 #### 2024-02-03
 
@@ -458,7 +466,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-03</u>
+### 2024-03
 
 #### 2024-03-20
 
@@ -500,7 +508,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-04</u>
+### 2024-04
 
 #### 2024-04-02
 
@@ -519,7 +527,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-05</u>
+### 2024-05
 
 #### 2024-05-13
 
@@ -545,7 +553,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-07</u>
+### 2024-07
 
 #### 2024-07-01
 
@@ -620,7 +628,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-08</u>
+### 2024-08
 
 #### 2024-08-01
 
@@ -771,7 +779,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-09</u>
+### 2024-09
 
 #### 2024-09-01
 
@@ -959,7 +967,7 @@ seo:
 
 ---
 
-### <u style="text-decoration-style:dotted">2024-10</u>
+### 2024-10
 
 #### 2024-10-02
 
@@ -972,5 +980,32 @@ seo:
 
 - **Dreamachine, the psychedelic contraption hoping to blow British minds** | 
 [1](https://www.theguardian.com/artanddesign/2022/feb/16/dreamachine-unboxed-brion-gysin-jon-hopkins-assemble)
+
+---
+
+#### 2024-10-07
+
+- **_Fetisisme Komoditas_** | 
+[1](https://lsfdiscourse.org/fetisisme-komoditas/)
+
+---
+
+#### 2024-10-08
+
+- **Muslims don’t study Buddhism enough: An interview with Prof. Imtiyaz Yusuf (Part 1)** | 
+[1](https://crcs.ugm.ac.id/muslims-dont-study-buddhism-enough-an-interview-with-prof-imtiyaz-yusuf-part-1/)
+
+- **Muslims don’t study Buddhism enough: An interview with Prof. Imtiyaz Yusuf (Part 2)** | 
+[1](https://crcs.ugm.ac.id/muslims-dont-study-buddhism-enough-an-interview-with-prof-imtiyaz-yusuf-part-2/)
+
+---
+
+#### 2024-10-13
+
+- **Buddhism from the Point of View of Islam** | 
+[1](https://studybuddhism.com/en/advanced-studies/history-culture/buddhism-islam/buddhism-from-the-point-of-view-of-islam)
+
+- **Islam from the Point of View of Buddhism** | 
+[1](https://studybuddhism.com/en/advanced-studies/history-culture/buddhism-islam-advanced/islam-from-the-point-of-view-of-buddhism)
 
 ---
