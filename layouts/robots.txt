@@ -1,4 +1,4 @@
-# Who Are You?
+# https://status.crdinusc.eu.org
 User-agent: *
 Disallow: /css/
 Disallow: /js/

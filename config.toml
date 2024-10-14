@@ -121,7 +121,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       pre = "<b style='font-weight:normal'>𝖓𝖚𝖒𝖖𝖚𝖆𝖒 𝖘𝖈𝖎𝖗𝖊<span style='color:#fa74b2'>.</span></b>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-      post = "<a rel='external nofollow noopener noreferrer' href='https://github.com/owl4ce/owl4ce.github.io/releases/latest/download/NUMQUAM_SCIRE.iso' title='Download ISO Disc'><i style='font-size:large' class='fas fa-quote-right fa-fw' aria-hidden='true'></i></a>"
+      post = "<a rel='nofollow noopener noreferrer' href='/NUMQUAM_SCIRE.iso' title='Download ISO Image'><i style='font-size:large' class='fas fa-quote-right fa-fw' aria-hidden='true'></i></a>"
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
       typeit = false

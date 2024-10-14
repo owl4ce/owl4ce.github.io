@@ -41,6 +41,8 @@ jobs:
                   -e '3d;4d' \
               /tmp/gohugo_render.log > ./public/gohugo-codegen-perf.txt
           fi
+          (cd ./public/ && \
+           curl -LO 'https://github.com/owl4ce/owl4ce.github.io/releases/latest/download/NUMQUAM_SCIRE.iso')
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
