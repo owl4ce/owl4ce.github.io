@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-10-13T00:00:00+07:00
+lastmod: 2024-10-16T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -1007,5 +1007,19 @@ STYLE.appendChild(document.createTextNode("\
 
 - **Islam from the Point of View of Buddhism** | 
 [1](https://studybuddhism.com/en/advanced-studies/history-culture/buddhism-islam-advanced/islam-from-the-point-of-view-of-buddhism)
+
+---
+
+#### 2024-10-14
+
+- **What Came Before the Big Bang?** | 
+[1](https://youtu.be/EiePsomaMpI)
+
+---
+
+#### 2024-10-15
+
+- **The Philosopher as Reverse-Engineer** | 
+[1](https://doi.org/10.1093/analys/anad008)
 
 ---
