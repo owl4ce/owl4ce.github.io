@@ -1,0 +1,67 @@
+{{- partial "init.html" . -}}
+
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp, nofollow, noarchive, nositelinkssearchbox, nosnippet, notranslate, noimageindex" />
+        <title>{{- block "title" . }}{{ .Site.Title }} – {{ .Site.Params.description }}{{ end -}}</title>
+
+        {{- partial "head/meta.html" . -}}
+        {{- partial "head/link.html" . -}}
+        {{- partial "head/seo.html" . -}}
+
+        {{- if and (eq .Kind "404") .Site.IsMultiLingual -}}
+            {{- $languages := slice -}}
+            {{- $languageNext := "" -}}
+            <script type="text/javascript">
+                (function() {
+                    {{- range $language := .Site.Languages -}}
+                        {{- $languages = append $language.Lang $languages -}}
+                        {{- $languageNext = strings.TrimPrefix "/" $.Site.LanguagePrefix -}}
+                        {{- if eq $languageNext $language.Lang -}}
+                            if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))}
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if not $languageNext -}}
+                        const firstPath = window.location.pathname.split('/')[1]; if({{ $languages }}.includes(firstPath)) if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))} else window.location.href = window.location.origin + '/' + firstPath + '/404.html?r=' + encodeURIComponent(window.location.pathname)
+                    {{- end -}}
+                })();
+            </script>
+        {{- end -}}
+    </head>
+    <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
+        {{- /* Check theme isDark before body rendering */ -}}
+        {{- $theme := .Site.Params.defaulttheme -}}
+        <script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('{{ $theme }}' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '{{ $theme }}' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div>
+
+        {{- /* Body wrapper */ -}}
+        <div class="wrapper">
+            {{- partial "header.html" . -}}
+            <main class="main">
+                <div class="container">
+                    {{- block "content" . }}{{ end -}}
+                </div>
+            </main>
+            {{- partial "footer.html" . -}}
+        </div>
+
+        <div id="fixed-buttons">
+            {{- /* top button */ -}}
+            <a href="javascript:void(0);" rel="nofollow noopener" role="button" id="back-to-top" class="fixed-button" title="{{ T `backToTop` }}" onclick="window.scrollTo({top:0,behavior:'smooth'});">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a>
+
+            {{- /* comment button */ -}}
+            <a href="javascript:void(0);" rel="nofollow noopener" role="button" id="view-comments" class="fixed-button" title="{{ T `viewComments` }}">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div>
+
+        {{- /* Load JavaScript scripts and CSS */ -}}
+        {{- partial "assets.html" . -}}
+    </body>
+</html>

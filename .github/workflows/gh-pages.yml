@@ -1,0 +1,58 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - loveit
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+
+      - uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: Build
+        env:
+          SUB_DOMAIN: ${{ secrets.INLINE }}
+        run: |
+          (rm -fv ./assets/css/_custom.scss && patch -p0 -i ./assets/css/_custom.patch)
+          hugo --minify --noBuildLock --baseURL "https://${SUB_DOMAIN}" | tee /tmp/gohugo_render.log
+          if [ -r /tmp/gohugo_render.log ]; then
+              export STATUS_SUB_DOMAIN="https://status.${SUB_DOMAIN}"
+              sed -e "1s|.*|${STATUS_SUB_DOMAIN}|" \
+                  -e "2s|.*|$(printf '%0.s=' $(seq 1 ${#STATUS_SUB_DOMAIN}))|" \
+                  -e '3d;4d' \
+              /tmp/gohugo_render.log > ./public/gohugo-codegen-perf.txt
+          fi
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/loveit' }}
+        env:
+          GIT_AUTHOR_DATE: '2021-01-02T07:13:52Z'
+          GIT_COMMITTER_DATE: '2021-01-02T07:13:52Z'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_assets: '.github'
+          publish_dir: ./public
+          force_orphan: true
+          cname: ${{ secrets.INLINE }}
