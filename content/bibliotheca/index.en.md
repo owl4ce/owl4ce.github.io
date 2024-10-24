@@ -2,7 +2,7 @@
 title: "Bibliotheca"
 subtitle: "Intuitiva de Hortensia"
 date: 2023-06-16T00:00:00+07:00
-lastmod: 2024-10-16T00:00:00+07:00
+lastmod: 2024-10-25T00:00:00+07:00
 draft: false
 author: "Violet Hortensia"
 authorLink: ""
@@ -1021,5 +1021,12 @@ STYLE.appendChild(document.createTextNode("\
 
 - **The Philosopher as Reverse-Engineer** | 
 [1](https://doi.org/10.1093/analys/anad008)
+
+---
+
+#### 2024-10-25
+
+- **Are universal ethics necessary? And possible? A systematic theory of universal ethics and a code for global moral education** | 
+[1](https://doi.org/10.1007/s43545-022-00350-7)
 
 ---
